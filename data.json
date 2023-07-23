@@ -1,0 +1,902 @@
+[{
+    "type": "Abalroamentos",
+    "question": "Como é que um navio desgovernado sinaliza essa situação aos navios na vizinhança durante o dia?",
+    "answer": "Colocando dois balões esféricos no mastro."
+  },
+  {
+    "type": "Abalroamentos",
+    "question": "O que entende por velocidade de segurança?",
+    "answer": "É a velocidade que permite governar uma embarcação em segurança e evitar a colisão."
+  },
+  {
+    "type": "Abalroamentos",
+    "question": "Se, às 1000 horas, avistar uma embarcação pela marcação 015 BB a uma distância de 5 milhas e às 1020 horas pela mesma marcação e distância, isso signfica que navegam em:",
+    "answer": "Em rumos paralelos."
+  },
+  {
+    "type": "Abalroamentos",
+    "question": "Um Iate que navegue à vela e a motor é considerado:",
+    "answer": "Embarcação de propulsão mecânica."
+  },
+  {
+    "type": "Abalroamentos",
+    "question": "Um navio de propulsão mecânica a navegar deve desviar-se de:",
+    "answer": "Todas as alíneas estão correctas. (navio com capacidade de manobra reduzida; navio na faina da pesca; navio desgovernado)"
+  },
+  {
+    "type": "Abalroamentos",
+    "question": "Das opções abaixo indicadas escolha a correcta, no que respeita a direito de rumo",
+    "answer": "Todas estão certas. (Uma embarcação de propulsão mecânica desvia-se de uma embarcação que navega à vela quando esta se aprenta pelo seu EB; Uma embarcação de propulsão mecânica tem direito a rumo sobre uma embarcação de vela, quando a navegar num canal com capacidade de manobra reduzida, devido ao calado; Uma embarcação de propulsão mecânica desvia-se de uma embarcação que nevegue à vela."
+  },
+  {
+    "type": "Abalroamentos",
+    "question": "Quando dois navios à vela se aproximam um do outro com risco de abalroamento, se receberem vento por bordos diferentes, o que receber por _______ deverá desviar-se do caminho do outro",
+    "answer": "bombordo"
+  },
+  {
+    "type": "Abalroamentos",
+    "question": "Como deve manobrar a sua embarcação ao aproximar-se da outra, roda a roda?",
+    "answer": "Devo guinar para estibordo."
+  },
+  {
+    "type": "Abalroamentos",
+    "question": "Vai a navegar a motor a apercebe-se que está em rumo de colisão com uma embarcação à vela, que se apresente por seu bombordo. Qual a opção que deve tomar:",
+    "answer": "Manobro francamente por forma a evitar o abalroamento. Devo passar pela popa."
+  },
+  {
+    "type": "Abalroamentos",
+    "question": "Considera-se que existe de risco de abalroamento sempre que a marcação _________ e a distância _______.",
+    "answer": "se mantiver constante; diminuir"
+  },
+  {
+    "type": "Abalroamentos",
+    "question": "Deve considerar-se como navio que alcança, aquele que se aproxima de outro vindo de uma direcção que fique mais de:",
+    "answer": "22,5º para ré do través."
+  },
+  {
+    "type": "Abalroamentos",
+    "question": "Defina o que se entende por embarcação alcançante?",
+    "answer": "É aquela que se aproxima de outra de uma direcção que fique mais de 22,5º para ré do través."
+  },
+  {
+    "type": "Abalroamentos",
+    "question": "Na medida do possível, as embarcações na faina da pesca, devem manter-se afastadas do rumo de:",
+    "answer": "Uma embarcação desgovernada ou uma embarcação com capacidade de manobra reduzida."
+  },
+  {
+    "type": "Abalroamentos",
+    "question": "Quando dois navios à vela se aproximam um do outro com risco de abalroamento, se receberem vento por bordos diferentes, o que receber por ______ deverá desviar-se do caminho do outro.",
+    "answer": "bombordo"
+  },
+  {
+    "type": "Abalroamentos",
+    "question": "Como é que um navio desgovernado, durante a noite, sinaliza essa situação aos navios que navegam na vizinhança?",
+    "answer": "Colocando dois faróis vermelhos no mastro."
+  },
+  {
+    "type": "Abalroamentos",
+    "question": "Quando dois navios navegam à vela em risco de colisão, recebendo o vento por bordos diferentes, deverá:",
+    "answer": "Desviar-se a embarcação que receber o vento por bombordo."
+  },
+  {
+    "type": "Abalroamentos",
+    "question": "Das opções abaixo indicadas escolha a correcta, no que respeita a direito de rumo entre embarcações de propulsão mecânica.",
+    "answer": "Duas embarcações que se aproximam roda à roda desviam-se ambas para estibordo."
+  },
+  {
+    "type": "Luzes",
+    "question": "Uma embarcação (com menos de 50 metros), fundeada de noite, deve apresentar:",
+    "answer": "Um farol de luz branca à proa"
+  },
+  {
+    "type": "Luzes",
+    "question": "Uma embarcação de propulsão mecânica com um comprimento superior a 50 metros, a navegar de noite, deve apresentar:",
+    "answer": "Farol de luz branca no mastro de vante, farol de luz branca no mastro de ré, farol de luz vermelha a bombordo, farol de luz verde a estibordo e farol de luz branca à popa."
+  },
+  {
+    "type": "Luzes",
+    "question": "Uma embarcação de propulsão mecânica com um comprimento superior a 50 metros, a navegar de noite, deve apresentar:",
+    "answer": "Farol de luz branca no mastro de vante, farol de luz branca no mastro de ré, farol de luz vermelha a bombordo, farol de luz verde a estibordo e farol de luz branca à popa."
+  },
+  {
+    "type": "Luzes",
+    "question": "Uma embarcação de propulsão mecânica com um comprimento superior a 50 metros, a navegar de noite, deve apresentar:",
+    "answer": "Farol de luz branca no mastro de vante, farol de luz branca no mastro de ré, farol de luz vermelha a bombordo, farol de luz verde a estibordo e farol de luz branca à popa."
+  },
+  {
+    "type": "Luzes",
+    "question": "Uma embarcação de propulsão mecânica com um comprimento superior a 50 metros, a navegar de noite, deve apresentar:",
+    "answer": "Farol de luz branca no mastro de vante, farol de luz branca no mastro de ré, farol de luz vermelha a bombordo, farol de luz verde a estibordo e farol de luz branca à popa."
+  },
+  {
+    "type": "Luzes",
+    "question": "Uma embarcação de propulsão mecânica com capacidade de manobra reduzida, a navegar de noite, deve apresentar:",
+    "answer": "Três luzes visíveis em todo o horizonte dispostas verticamente, sendo a do meio de luz branca e a superior e a inferior de luz vermelha, farol ou faróis de mastro, faróis de borda e farol de popa."
+  },
+  {
+    "type": "Luzes",
+    "question": "Uma embarcação de propulsão mecânica com um comprimento inferior a 50 metros e superior a 12 metros, a navegar de noite, deve apresentar:",
+    "answer": "Farol de luz branca no mastro de vante, farol de luz vermelha a bombordo, farol de luz verde a estibordo e farol de luz branca à popa."
+  },
+  {
+    "type": "Luzes",
+    "question": "Uma embarcação à vela (com mais de 20 metros), a navegar de noite, deve apresentar:",
+    "answer": "Faróis de navegação, podendo mostrar dois faróis visíveis em todo o horizonte, sendo o superior vermelho e o inferior verde."
+  },
+  {
+    "type": "Luzes",
+    "question": "Uma embarcação de propulsão mecânica desgovernada e sem seguimento, de noite, deve apresentar:",
+    "answer": "Duas luzes vermelhas no mastro num arco de 360º, dispostas verticamente."
+  },
+  {
+    "type": "Luzes",
+    "question": "Uma embarcação de propulsão mecânica, a rebocar de noite, com um reboque superior a 200 metros deve apresentar:",
+    "answer": "Três faróis de luz branca dispostos verticalmente, farol de luz vermelha a BB, farol de luz verde a EB, um farol de luz branca à popa e um farol de luz amarela colocada por cima do farol de luz branca de popa."
+  },
+  {
+    "type": "Generalidades",
+    "question": "A linha que resulta da intersectação de qualquer plano paralelo ao Equador com a superfície terrestre denomina-se:",
+    "answer": "Paralelo"
+  },
+  {
+    "type": "Agulha magnética",
+    "question": "O ângulo entre o Meridiano Verdadeiro e o Meridiano Magnético chama-se:",
+    "answer": "Declinação"
+  },
+  {
+    "type": "Rumos e proas",
+    "question": "O ângulo formado entre o Meridiano da Agulha e a proa da embarcação denomina-se:",
+    "answer": "Proa da Agulha"
+  },
+  {
+    "type": "Azimutes",
+    "question": "Azimute da Agulha é o ângulo entre:",
+    "answer": "O Norte da Agulha e a visual para o alvo"
+  },
+  {
+    "type": "Derrotas",
+    "question": "A navegação loxodrómica é representada na Carta de Mercador por:",
+    "answer": "Um segmento de recta"
+  },
+  {
+    "type": "Diferenças de latitudes e longitudes",
+    "question": "Calcule as diferenças de Latitude e de Longitude entre as seguintes coordenadas:\nPonto de Partida φ=12 25'N L=070º 30'E\nPonto de Chegada φ=35º 50'S L=075º 40'W",
+    "answer": "ΔΦ=48º 15'S ΔL=146ºW"
+  },
+  {
+    "type": "Generalidades",
+    "question": "O ângulo entre a Proa e o Rumo chama-se?",
+    "answer": "Abatimento"
+  },
+  {
+    "type": "Agulha magnética",
+    "question": "O Desvio pode-se obter nas:",
+    "answer": "Tabelas de Desvios"
+  },
+  {
+    "type": "Derrotas",
+    "question": "O que se entende, em navegação, por derrota?",
+    "answer": "Caminho seguido por uma embarcação para se deslocar. de um ponto de partida a um ponto de chegada, pré-determinado."
+  },
+  {
+    "type": "Diferenças de latitudes e longitudes",
+    "question": "Calcule as diferenças de Latitude e de Longitude entre as seguintes coordenadas:\nPonto de Partida φ=23 00'S L=179º 30'W\nPonto de Chegada φ=05º 13'N L=170º 40'E",
+    "answer": "ΔΦ=28º 13'N ΔL=009º 50'W"
+  },
+  {
+    "type": "Generalidades",
+    "question": "A linha que resulta da intersectação de qualquer plano centrando o eixo da Terra com a sua superfície denomina-se:",
+    "answer": "Meridiano"
+  },
+  {
+    "type": "Agulha magnética",
+    "question": "Complete o espaço em branco:\nA Rosa dos Ventos é graduada de _____ a _____ coincidindo o zero graus com o Norte da _______",
+    "answer": "0º; 360º; Agulha"
+  },
+  {
+    "type": "Rumos e proas",
+    "question": "Rumo é o ângulo entre:",
+    "answer": "O Meridiano Verdadeiro e o caminho segudo pela embarcação em relação ao fundo do mar."
+  },
+  {
+    "type": "Azimutes",
+    "question": "O Azimute que se obtém com a Agulha de Marcar é o:",
+    "answer": "Azimute da Agulha"
+  },
+  {
+    "type": "Derrotas",
+    "question": "Derrota loxodrómica é a:",
+    "answer": "É a linha que une dois pontos na Carta de Mercator, formando ângulos constantes com todos os meridianos."
+  },
+  {
+    "type": "Generalidades",
+    "question": "A linha que resulta da intersectação de um plano prependicular ao eixo passando pelo centro da Terra com a superfície terrestre, denomina-se:",
+    "answer": "Equador"
+  },
+  {
+    "type": "Agulha magnética",
+    "question": "O ângulo entre o Meridiano Verdadeiro e o Meridiano da Agulha chama-se:",
+    "answer": "Variação"
+  },
+  {
+    "type": "Rumos e proas",
+    "question": "O Abatimento pode ser:",
+    "answer": "Para bombordo ou para estibordo."
+  },
+  {
+    "type": "Azimutes",
+    "question": "Se tirar um só azimute a uma conhecença, ele define:",
+    "answer": "Uma linha de posição"
+  },
+  {
+    "type": "Derrotas",
+    "question": "O que entende por derrota loxodrómica?",
+    "answer": "É a linha que une dois pontos na Carta de Mercator, formando ângulos constantes com todos os meridianos."
+  },
+  {
+    "type": "Diferenças de latitudes e longitudes",
+    "question": "Calcule as diferenças de Latitude e de Longitude entre as seguintes coordenadas:\nPonto de Partida φ=57º 10'N L=054º 56'W\nPonto de Chegada φ=13º 50'N L=034º 46'W",
+    "answer": "ΔΦ=43º 20'S ΔL=020º 10'E"
+  },
+  {
+    "type": "Generalidades",
+    "question": "A linha que resulta da intersectação de qualquer plano paralelo ao Equador com a superfície terrestre denomina-se:",
+    "answer": "Meridiano"
+  },
+  {
+    "type": "Agulha magnética",
+    "question": "Complete o espaço em branco:\nA Agulha Magnética trabalha no interior de uma caixa redonda denominada ________",
+    "answer": "Morteiro"
+  },
+  {
+    "type": "Rumos e proas",
+    "question": "O ângulo entre o Meridiano Verdadeiro e a proa da embarcação denomina-se",
+    "answer": "Proa Verdadeira"
+  },
+  {
+    "type": "Azimutes",
+    "question": "Um Azimute obtém-se com recurso a:",
+    "answer": "Uma Agulha com aparelho de marcar"
+  },
+  {
+    "type": "Diferenças de latitudes e longitudes",
+    "question": "Calcule as diferenças de Latitude e de Longitude entre as seguintes coordenadas:\nPonto de Partida φ=23º 25'S L=000º 30'W\nPonto de Chegada φ=05º 50'N L=035º 40'E",
+    "answer": "ΔΦ=29º 15'N ΔL=036º 10'E"
+  },
+  {
+    "type": "Generalidades",
+    "question": "Qual o tipo de navegação que exige maior precisão e rapidez no cálculo da posição?",
+    "answer": "Navegação em águas restritas"
+  },
+  {
+    "type": "Agulha magnética",
+    "question": "A Declinação pode-se obter nas:",
+    "answer": "Cartas de Navegação"
+  },
+  {
+    "type": "Derrotas",
+    "question": "As distâncias na Carta de Mercator medem-se:",
+    "answer": "Na escala das Latitudes"
+  },
+  {
+    "type": "Diferenças de latitudes e longitudes",
+    "question": "Calcule as diferenças de Latitude e de Longitude entre as seguintes coordenadas:\nPonto de Partida φ=70º 25'N L=070º 30'E\nPonto de Chegada φ=35º 50'S L=015º 40'W",
+    "answer": "ΔΦ=106º 15'S ΔL=086º 10'W"
+  },
+  {
+    "type": "Generalidades",
+    "question": "Como se designa e o que representa uma milha náutica por hora?",
+    "answer": "Designa-se por Nó e representa a velocidade de uma embarcação."
+  },
+  {
+    "type": "Agulha magnética",
+    "question": "O ângulo entre o Meridiano Magnético e o Meridiano de Agulha chama-se:",
+    "answer": "Desvio"
+  },
+  {
+    "type": "Rumos e proas",
+    "question": "O ângulo entre o Meridiano da Agulha e a proa da embarcação denomina-se:",
+    "answer": "Proa da Agulha"
+  },
+  {
+    "type": "Azimutes",
+    "question": "Azimute Verdadeiro é o ângulo entre:",
+    "answer": "O Norte Verdadeiro e a visual para o alvo."
+  },
+  {
+    "type": "Diferenças de latitudes e longitudes",
+    "question": "Calcule as diferenças de Latitude e de Longitude entre as seguintes coordenadas:\nPonto de Partida φ=12º 25'N L=054º 26'W\nPonto de Chegada φ=35º 50'N L=045º 49'E",
+    "answer": "ΔΦ=23º 25'N ΔL=008º 37'E"
+  },
+  {
+    "type": "Generalidades",
+    "question": "A linha que resulta da intersectação de qualquer plano centrando o eixo da Terra com a sua superfície denomina-se:",
+    "answer": "Circulo máximo"
+  },
+  {
+    "type": "Diferenças de latitudes e longitudes",
+    "question": "Calcule as diferenças de Latitude e de Longitude entre as seguintes coordenadas:\nPonto de Partida φ=12º 25'N L=170º 30'E\nPonto de Chegada φ=35º 50'N L=175º 40'W",
+    "answer": "ΔΦ=23º 25'N ΔL=013º 50'E"
+  },
+  {
+    "type": "Segurança",
+    "question": "Qual dos sinais pirotécnicos deve utilizar de dia?",
+    "answer": "Fumígenos"
+  },
+  {
+    "type": "Segurança",
+    "question": "É de boa prática marinhática possuir, a bordo, peças em madeira, de forma cónica e vários tamanhos (denominadas bujões) que em caso de necessidade, se destinam a tapar pequenas entradas de água (veios de água). Tais peças devem ser:",
+    "answer": "Em madeira macia"
+  },
+  {
+    "type": "Segurança",
+    "question": "Numa embarcação dotada de motor interior, quais os cuidados a ter antes de o pôr a trabalhar:",
+    "answer": "Ventilar o compartimento onde possam existir gases libertados pelo combustível"
+  },
+  {
+    "type": "Incêndios",
+    "question": "O pó químico é o agente extintor adequado para o combate a incêndio em:",
+    "answer": "Equipamentos eléctricos, em carga"
+  },
+  {
+    "type": "Primeiros socorros",
+    "question": "Numa hemorragia externa deve-se:",
+    "answer": "Fazer o tamponamento com uma compressa, envolvendo-a com uma ligadura apertada."
+  },
+  {
+    "type": "Primeiros socorros",
+    "question": "Uma vítima de afogamento que se encontra consciente deve ser:",
+    "answer": "Deitada com a cabeça de lado, mais baixa que os pulmões."
+  },
+  {
+    "type": "Segurança",
+    "question": "Diga o nome dos 3 sinais pirotécnicos que conhece:",
+    "answer": "Fumígenos; Facho de mão; Foguete pára-quedas"
+  },
+  {
+    "type": "Segurança",
+    "question": "Indique as fases de manobra de Boutakow (homem ao mar).",
+    "answer": "Alterar a proa 60º para o lado que caiu o náufrago; Guinar para o lado contrário até inverter o rumo; Recolher o náufrago por sotavento"
+  },
+  {
+    "type": "Incêndios",
+    "question": "Ao regressar de uma pescaria na sua embarcação com motor fora de bordo, este incendeia-se. Que acções deve, de imediato, desenvolver em termos de manobra da embarcação e qual o agente extintor mais adequado para apagar o incêndio?",
+    "answer": "Aproar ao ventoa. Extintor de pó químico"
+  },
+  {
+    "type": "Primeiros socorros",
+    "question": "Complete a frase abaixo indicada com uma das seguintes palavras: \nConscientes / Inconscientes\nA posição lateral de segurança deve ser utilizada em sinistrados ____________ que respirem e com batimentos cardíacos.",
+    "answer": "Inconscientes"
+  },
+  {
+    "type": "Primeiros socorros",
+    "question": "Num adulto saudável considera-se como normal uma frequência respiratória de:",
+    "answer": "16 a 18 respirações por minuto"
+  },
+  {
+    "type": "Segurança",
+    "question": "Enuncie 3 meios de salvação que conheça:",
+    "answer": "Jangada; Bóia de salvação; Coletes; Arnês; Pirotécnicos"
+  },
+  {
+    "type": "Segurança",
+    "question": "Em caso de mau tempo, como deve navegar em relação à vaga?",
+    "answer": "Correr com o tempo ou colocar as amuras à vaga, reduzindo a velocidade ao mínimo de segurança para navegar"
+  },
+  {
+    "type": "Primeiros socorros",
+    "question": "Num adulto saudável, em repouso, os valores médios da temperatura, pulso e frequência respiratória são",
+    "answer": "36,5ºC; 70 pulsações por minuto; 17 respirações por minuto"
+  },
+  {
+    "type": "Segurança",
+    "question": "Quando estiver dentro da jangada deve:",
+    "answer": "Só beber água doce 24 horas após o naufrágio."
+  },
+  {
+    "type": "Segurança",
+    "question": "Quando tiver que abandonar a embarcação, saltando para o mar:",
+    "answer": "Descalçar-se, vestir roupa quente e envegar o colete"
+  },
+  {
+    "type": "Incêndios",
+    "question": "No caso de ocorrer um incêndio, dois gajos podem por este ser libertados: o dióxido e o monóxido de carbono. Sendo ambos prejudiciais à saúde, qual deles é mais nocivo?",
+    "answer": "O monóxido de carbono, que pode causar a morte por asfixia"
+  },
+  {
+    "type": "Primeiros socorros",
+    "question": "Uma ferida com hemorragia deve ser limpa com:",
+    "answer": "Soro fisiológico"
+  },
+  {
+    "type": "Primeiros socorros",
+    "question": "Um indivíduo com a seguinte sintomatologia: coloração da pele e mucosas azuladas, paragem respiratória e cardíaca, poderá ser vítima de:",
+    "answer": "Hidrocussão"
+  },
+  {
+    "type": "Segurança",
+    "question": "Indique o que deve fazer no caso de um dos tripulantes cair ao mar por BB",
+    "answer": "Gritar Homem ao Mar por BB; Reduzir a velocidades dos motores; Guinar para BB; Lançar bóia; Não perder o tripulante de vista; Recolher o tripulante por sotavento"
+  },
+  {
+    "type": "Segurança",
+    "question": "Navegando numa embarcação à vela, abalroa um objecto flutuante, do que resulta um rombo, de gravidade, na querena (obras vivas): Explane a operação a que pode recorrer, por meio de uma vela, para reduzir razoavelmente, a entrada de água",
+    "answer": "Baixar o pano até que a embarcação fique a pairar (se seguir a motor, desligar este ou colocá-lo em ponto morto) e, fazer deslizar por um bordo a outro do casco e da proa para a popa, uma vela (a mais espessa que tiver a borda), até esta \"tapar\" a zona onde o rombo de verificou retesando-a e fixando-a, muito bem, em pontos fixos do convés ou da borda, com recurso a cabos previamente amarrados aos punhos do gurutil, da pena e da escota"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Em que local deve instalar a bordo o equipamento de rádio-comunicações?",
+    "answer": "Num local acessível e protegido, junto do governo ou perto da mesa de navegação"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Em que local deve ser instalada a antena do equipamento de comunicações VHF?",
+    "answer": "Na parte mais alta da embarcação para maior e melhor transmissão e recepção, dado que as ondas VHF se propagam em linha recta."
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Quais os tipos de chamada que conhece, por ordem de prioridade?",
+    "answer": "Socorro; Urgência; Segurança; Rotina"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Como deve fazer para efectuar uma chamada no canal 16?",
+    "answer": "Certificar-se que não está em curso qualquer tráfego de comunicação e depois de chamar aguardar que a estação indique o canal de trabalho."
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Qual a expressão que usa para \"A sua transmissão está compreensível\"?",
+    "answer": "Claro"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Qual a expressão que usa para \"Vou soletrar foneticamente\"?",
+    "answer": "Soletro"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Qual a expressão que usa para \"Vou transmitir pelo Código Internacional de Sinais (CIS)\"",
+    "answer": "Interco"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Qual a expressão que usa para \"Terminei e não espero a sua resposta\"",
+    "answer": "Terminado"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Qual a expressão que usa para \"Terminei e espero a sua resposta\"",
+    "answer": "Escuto"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Qual a expressão que usa para \"Não estou de acordo\"",
+    "answer": "Negativo"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Qual a expressão que usa para \"Estou de acordo\"",
+    "answer": "Positivo"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Qual a expressão para cada uma destas chamadas?",
+    "answer": "Socorro - Mêdê; Urgência - PanePane; Segurança - Sécurité;"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Qual a expressão de serviço utilizada para a mudança de canal ou frequência?",
+    "answer": "Passe a"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Explique quando é usada a expressão \"Mêdê Relé\"?",
+    "answer": "Quando se processa o pedido de socorro por outra embarcação, que por qualquer motivo não o pode efectuar."
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "CIS",
+    "answer": "A - Alfa; B - Bravo; C - Charlie; D - Delta; E - Echo; F - Foxtrot; G - Golf; H - Hotel; I - India; J - Juliet; K - Kilo; L - Lima; M - Mike; N - November; O - Oscar; P - Papa; Q - Quebec; R - Romeo; S - Sierra; T - Tango; U - Uniform; V - Victor; W - Whiskey; X - X-ray; Y - Yankee; Z - Zulu"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Explique o signficado de \"Silence Mêdê\"?",
+    "answer": "Para impor silêncio no canal 16, pela embarcação em perigo, ou pela que presta auxílio, por estar a decorrer tráfego de socorro"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Explique o significado de \"Silence Fini\"?",
+    "answer": "Terminou a imposição dada por \"Silence Mêdê\" por estar a decorrer tráfego de socorro (em canal 16). Pode voltar a comunicar no canal 16"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Explique o significado de \"Prudence\"?",
+    "answer": "Pode voltar a comunicar no canal 16. Contudo, se necessário será emitido novamente \"Silence Mêdê\""
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "O comando do radiotelefone que permite regular a intensidade do som, chama-se:",
+    "answer": "Volume"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "O comando do radiotelefone que permite mudar a potência, chama-se:",
+    "answer": "Potência"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "O comando de radiotelefone que permite mudar de canal frequência, chama-se:",
+    "answer": "Dual Watch (Dupla Escuta)"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Os telegramas ou mensagens pedindo conselhos médicos devem ser precedido da expressão de serviço:",
+    "answer": "Panepane"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Em todos as comunicações deverá dizer sempre:",
+    "answer": "O nome da embarcação e/ou indicativo de chamada"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Sempre que ouvir as palavras \"Mêdê\", \"Panepane\" ou \"Sécurité\" deverá:",
+    "answer": "Manter escuta no canal 16 VHF ou 2182 KHz em MF"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Qual a finalidade da Função Dual Escuta em inglês \"Dual Watch\"?",
+    "answer": "É a selecção de outro ou outros canais, para além do canal 16."
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Que tipo de chamada se use para:",
+    "answer": "Boletim Meteorológico - Segurança\nTripulante com braço partido - Socorro\nAviso de contentor à deriva - Segurança"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Que tipo de chamada se use para:",
+    "answer": "Boletim Meteorológico - Segurança\nTripulante com braço partido - Socorro\nAviso de contentor à deriva - Segurança"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Como deve proceder para efectuar uma chamada no canal 16?",
+    "answer": "Verificar se não está em curso nenhuma chamada de \"Socorro\", \"Urgência\", \"Segurança\" ou \"Rotina\".\nChamar pela estação que pretende contactar e esperar pela resposta dessa estação.\nIndicar a essa estação qual o canal de serviço.\nChamar e comunicar com essa estação pelo canal de serviço"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Quando deve ser emitida a comunicação de \"Socorro\", qual a expressão que a identifica e dê exemplos.",
+    "answer": "Quando está em causa a segurança da embarcação e seus ocupantes. A expressão é Mêdê. Por exemplo, incêndio ou afundamento."
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Quando deve ser emitida a comunicação de \"Urgência\", qual a expressão que a identifica e dê exemplos.",
+    "answer": "Quando está em causa a segurança da navegação da embarcação por avaria, aeronave ou outro veículo, de pessoas desaparecidas ou algum sinistrado a bordo. A expressão é PanePane."
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Quando deve ser emitida a comunicação de \"Segurança\", qual a expressão que a identifica e dê exemplos.",
+    "answer": "Quando está em causa a segurança da navegação em geral naquela zona. Avisos aos navegantes e avisos meteorológicos. A expressão é \"Securité\". Exemplos, formação de temporal, exercícios navais de fogo real, destroços a flutuar, contentores, árvores de grande porte e informações de interesse para toda a navegação."
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Efectue uma comunicação, tendo em conta a seguinte situação:\nNome da embarcação: São Julião\nPosição: 10 milhas a Oeste do Cabo Mondego\nNatureza do acidente: Doença\nAjuda pretendida: Necessito de assistência médica.",
+    "answer": "Panepane, Panepane, Panepane\nAqui\nSão Julião, São Julião, São Julião\nPanepane\nAqui\nSão Julião\nPosição: 10 milhas a Oeste do Cabo Mondego\nTenho sinistrado a bordo\nNecessito de apoio médico.\nEscuto"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Efectue uma comunicação, tendo em conta a seguinte situação:\nNome da embarcação: Douro\nPosição: 30 milhas a Oeste do Farol de Leça\nNatureza do acidente: Alagamento\nAjuda pretendida: Auxílio imediato.\n\nDe acordo com a sua transmissão, simule a resposta da estação que ouviu o seu pedido, a ER Leixões, que informa que se dirige para a sua posição de imediato.",
+    "answer": "Mêdê, Mêdê, Mêdê\nAqui\nDouro, Douro, Douro\nMêdê\nAqui\nDouro\nPosição: 30 milhas a Oeste do Farol de Leça\nTenho \"água aberta\". Afundamento iminente. \nNecessito apoio urgente.\nEscuto.\n\nMêdê\nDouro, Douro, Douro\nAqui\nLeixões, Leixões, Leixões\nRecebido Mêdê\nSigo de imediato para local. ETA: ..... horas"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Diga o que significa da expressão \"CSMT\" e soletra a palavra:",
+    "answer": "Em comunicações marítimas significa o \"Indicativo de Chamada\" de uma estação de embarcaçã́o.\nSoletra: Charlie, Sierra, Mike, Tango"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "A Licença de Estação de uma embarcação deve:",
+    "answer": "Estar afixada tanto quanto possível à vista junto do radiotelefone."
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Se a estação com que deseja comunicar mantiver escuta no canal 16 e noutro canal, a chamada deverá:",
+    "answer": "Ser feita prefencialmente no outro canal de escuta da estação, que não o 16."
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Os canais 06, 09, 12, 15 e 16, têm em comum o seguinte:",
+    "answer": "São canais com a frequência de transmissão igual à frequência de recepção."
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Qual a expressão que usa para \"Recebida completamente a sua última transmissão\"",
+    "answer": "Compreendido"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Diga alguns procedimentos antes de começar uma comunicação, completando as frases:\nVerificar o canal de _______ e de _______ da estação que vai chamar. Se possível utilizar a de _______.",
+    "answer": "chamada; trabalho; trabalho"
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Quem é o responsável a bordo pelas comunicações?",
+    "answer": "O comandante ou o responsável pela embarcação."
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Que autorizações tem que pedir e a quem, para montar um equipamento de radiotelefonte (VHF) a bordo?",
+    "answer": "Requerimento de montagem emitido à DGRM (Direcção Geral de Recursos Marítimos).\nEsquema eléctrico, documentação do equipamento e de compra.\nApós 30 dias, pedir vistoria.\nEmissão da Licença de Estação onde costa o Indicativo de Chamada e o MMSI (Sistema de Identificação Móvel Marítimo)."
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "A utilização de um equipamento VHF a bordo de uma embarcação, só pode ser feita mediante:",
+    "answer": "Licença de Estação válida, emitida pela DGRM (Direcção Geral de Recursos Marítimos)."
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "A tabela de canais (frequências) atribuída à embarcação, deve:",
+    "answer": "Sempre que possível estar afixada junto ao equipamento."
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Qual o procedimento de um operador de rádio deve seguir para evitar interferèncias com outras estações?",
+    "answer": "Verificar se o canal não está a ser utilizado, através da sua escute, antes de iniciar transmissão, e diminuindo, sempre que possível, a potência de transmissão."
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Quais os procedimentos correctos para a utilização do microfone de VHF?",
+    "answer": "Falar claro e devagar, sempre com a mesma velocidade, sem gritar e separando bem as palavras."
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Que acontece se o limitador de ruído (Squelch) do equipamento de VHF estiver ajudado no valor máximo de supressão?",
+    "answer": "São perdidas as comunicações com sinais mais fracos."
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Qual é o alcance médio, sem redução de potência, das comunicações em VHF??",
+    "answer": "De 20 a 30 milhas náuticas, dependendo da altura da antena."
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Para se tirar maior rendimento da utilização das baterias recomenda-se que",
+    "answer": "O electrólito seja mantido no nível ligeiramente acima da altura superior das placas e com a densidade de carga apropriada."
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "O que entende por tráfego de \"Socorro\"?",
+    "answer": "São todas as mensagens que dizem respeito a um pedido de ajuda imediata por parte de uma embarcação, aeronave ou qualquer outro móvel em perigo eminente."
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "Geralmente, em que frequência deve uma estação de radiocomunicações de uma embarcação chamar uma estação costeira de correspondência pública em radiotelefonia?",
+    "answer": "As chamadas devbem ser inicializadas, sempre que possível, nas frequências de trabalho da Estação Costeira apropriadas, no sentido \"embarcação - terra\""
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "O que entende por um aviso aos navegantes?",
+    "answer": "Uma mensagem que indica que uma estação vai transmitir um aviso importante de segurança da navegação."
+  },
+  {
+    "type": "Radiocomunicações",
+    "question": "A expressão \"SILENCE DÊTRESSE\" significa:",
+    "answer": "Imposição de silêncio no canal 16, por parte de qualquer outra estação radiotelefónica na área do sinistro, que não a estação em perigo sinistrada, ou estação de coordenaçao, por estar a decorrer tráfego de socorro."
+  },
+  {
+    "type": "Âncoras e amarras",
+    "question": "O local onde normalmente é recolhida a amarra de ferro chama-se?",
+    "answer": "Paiol ou porão de amarra"
+  },
+  {
+    "type": "Manobras",
+    "question": "A força exercida na porta do leme de uma embarcação é tanto maior:",
+    "answer": "Quanto maior for a velocidade"
+  },
+  {
+    "type": "Manobras",
+    "question": "Numa embarcação a motor qual é o procedimento imediato a tomar no caso de cair alguém ao mar",
+    "answer": "Desengrenar o motor e guinar, de imediato, para o bordo em que caiu a pessoa"
+  },
+  {
+    "type": "Nomenclatura",
+    "question": "O que é o calado de uma embarcação?",
+    "answer": "É a distància na prependicular entre o plano de água e o paralelo que passa na face inferior da quilha da embarcação"
+  },
+  {
+    "type": "Cabos, voltas e nós",
+    "question": "O seio de um cabo, designa:",
+    "answer": "A parte média do cabo"
+  },
+  {
+    "type": "Âncoras e amarras",
+    "question": "De que material é constituido o cabo de amarra?",
+    "answer": "O cabo de amarra é geralmente feito de fibras sintéticas fortes e duráveis, como o nylon ou o poliéster. Esses materiais são escolhidos por sua resistência à abrasão, flexibilidade, resistência ao alongamento e capacidade de resistir a condições adversas, como a exposição ao sal, água, sol e movimento constante."
+  },
+  {
+    "type": "Manobras",
+    "question": "Em marcha AV, se virarmos a cana do leme para BB, a embarcação:",
+    "answer": "Guina para EB"
+  },
+  {
+    "type": "Manobras",
+    "question": "Numa embarcação, ao meter leme a um bordo, o seu efeito é tanto maior quanto:",
+    "answer": "Maior for a velocidade da embarcação; Maior for a área do leme; Maior for o ângulo de leme"
+  },
+  {
+    "type": "Nomenclatura",
+    "question": "À peça na qual se apoia e trabalha o remo, dá-se o nome de:",
+    "answer": "TODO"
+  },
+  {
+    "type": "Âncoras e amarras",
+    "question": "Observe a figura e diga como se designam, no ferro de almirantado, as partes referenciadas com os números",
+    "answer": "1 - Haste\n2 - Anete\n3 - Cepo\n3A-Cotovelo\n4 - Nóz\n5 - Cruz\n6 - Braços\n7 - Pata\n8 - Unha\n9 - Orelhas\n",
+    "image_src": "images/ancoras1.png"
+  },
+  {
+    "type": "Manobras",
+    "question": "Ao desatracar a embarcação. Indique qual seria o último cabo a larger e se devia colocar o motor a vante ou a ré.",
+    "answer": "A regeira de vante, motor a vante"
+  },
+  {
+    "type": "Manobras",
+    "question": "O que entende por \"navegar à bolina folgada\"?",
+    "answer": "Quando o vento entra por uma das amuras, mas próximo do través"
+  },
+  {
+    "type": "Nomenclatura",
+    "question": "As peças (normalmente, em metal) fixadas à borda da embarcação, que recebem os vergueiros, denominam-se:",
+    "answer": "Balaústres"
+  },
+  {
+    "type": "Cabos, voltas e nós",
+    "question": "O seio de um cabo, designa:",
+    "answer": "A parte média do cabo"
+  },
+  {
+    "type": "Âncoras e amarras",
+    "question": "À manobra de \"içar o ferro\" pode-se também designar por:",
+    "answer": "Suspender o ferro"
+  },
+  {
+    "type": "Manobras",
+    "question": "Defina vento pela amura de BB",
+    "answer": "TODO"
+  },
+  {
+    "type": "Nomenclatura",
+    "question": "Quais os 5 principais sectores de uma embarcação?",
+    "answer": "TODO"
+  },
+  {
+    "type": "Âncoras e amarras",
+    "question": "Que nome se dá aos espaçamentos da amarra (vulgarmente sinalizados com tinta) que permite controlar o comprimento da amarra largada, na manobra de fundear",
+    "answer": "Quarteladas"
+  },
+  {
+    "type": "Manobras",
+    "question": "O principal efeito provocado numa embarcação com corrente pelas amuras é:",
+    "answer": "Redução do seguimento; Dificuldade de governo"
+  },
+  {
+    "type": "Manobras",
+    "question": "Numa ER equipada apenas com um hélice este, geralmente, é de passo:",
+    "answer": "Direito"
+  },
+  {
+    "type": "Nomenclatura",
+    "question": "A regio a meio comprimento do navio designa-se por:",
+    "answer": "Meio-navio"
+  },
+  {
+    "type": "Âncoras e amarras",
+    "question": "A expressão \"o ferro está unhado\" significa:",
+    "answer": "A embarcação ficou fundeada"
+  },
+  {
+    "type": "Manobras",
+    "question": "A embarcação desta figura utilizou para atracar, os seguintes cabos:\n1 - Lançante de vante\n2 - Regeira de proa",
+    "answer": "",
+    "image_src": "images/manobras1.png"
+  },
+  {
+    "type": "Manobras",
+    "question": "Numa ER, o hélice no seu movimento de rotação em marcha AR, origina uma corrente sucção e descarrega-a para:",
+    "answer": "Vante"
+  },
+  {
+    "type": "Nomenclatura",
+    "question": "Identifique a peça apresentada ao lado",
+    "answer": "",
+    "image_src": "images/nomenclatura1.png"
+  },
+  {
+    "type": "Cabos, voltas e nós",
+    "question": "Para travar o correr de um cabo diz-se",
+    "answer": "Alar um cabo"
+  },
+  {
+    "type": "Manobras",
+    "question": "Numa embarcação com dois motores hélices, geralmente:",
+    "answer": "O de BB é de passo esquerdo e o de EB de passo direito"
+  },
+  {
+    "type": "Manobras",
+    "question": "Em relação a uma ER com seis pessoas a bordo, a pressão lateral do hélice é",
+    "answer": "Menor do que se a mesma ER levasse apenas um tripulante"
+  },
+  {
+    "type": "Nomenclatura",
+    "question": "A direcção prependicular à mediania da embarcação e que fica situada entre a amura e a alheta, designa-se por:",
+    "answer": "Través"
+  },
+  {
+    "type": "Cabos, voltas e nós",
+    "question": "Pretende unir rapidamente dois cabos de bitolas diferentes. Que nó deve utilizar?",
+    "answer": "Nó de escota"
+  },
+  {
+    "type": "Âncoras e amarras",
+    "question": "A expressão \"a embarcação está à garra\" significa:",
+    "answer": "A embarcação não ficou fundeada"
+  },
+  {
+    "type": "Manobras",
+    "question": "Ao meter leme a um bordo é necessário vencer uma certa força, que se designa:",
+    "answer": "Resistência do leme"
+  },
+  {
+    "type": "Nomeclatura",
+    "question": "Às partes curvas das obras mortas do costado de um e do outro lado da roda de proa, dá-se o nome de",
+    "answer": "Amuras"
+  },
+  {
+    "type": "Cabos, voltas e nós",
+    "question": "Às voltas que, para arrumo de um cabo se dão, dá-se nome de:",
+    "answer": "Aduchas"
+  },
+  {
+    "type": "Âncoras e amarras",
+    "question": "O ancorete pode ser utilizado para fundear:",
+    "answer": "Pequenas embarcações"
+  },
+  {
+    "type": "Manobras",
+    "question": "Fazer com que a proa da embarcação se aproxime da linha do vento designa-se por:",
+    "answer": "Orçar"
+  },
+  {
+    "type": "Nomeclatura",
+    "question": "Como designa as regiões curvas junto à proa, de um e outro bordo da embarcação?",
+    "answer": "Amuras"
+  },
+  {
+    "type": "Cabos, voltas e nós",
+    "question": "Os cabos destinados à amarração da embarcação ao cais, a outras embarcações, podendo ainda servir de reboque, designam-se por",
+    "answer": "Amarras (?)"
+  },
+  {
+    "type": "Nomeclatura",
+    "question": "A parte da embarcação abaixo da linha de água chama-se:",
+    "answer": "Querena ou Obras vivas"
+  },
+  {
+    "type": "Cabos, voltas e nós",
+    "question": "Identifique o nó / laçada representado na figura e dê um exemplo da sua aplicação",
+    "answer": "Nome: Nó de escota\nAplicação: Emendar cabos de material/bitolas diferentes",
+    "image_src": "images/cabos1.png"
+  },
+  {
+    "type": "Cabos, voltas e nós",
+    "question": "Identifique o nó / laçada representado na figura e dê um exemplo da sua aplicação",
+    "answer": "?",
+    "image_src": "images/cabos3.png"
+  },
+  {
+    "type": "Cabos, voltas e nós",
+    "question": "Identifique o nó / volta representado na figura",
+    "answer": "?",
+    "image_src": "images/cabos2.png"
+  }
+]
