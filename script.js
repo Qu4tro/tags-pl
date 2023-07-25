@@ -88,7 +88,6 @@ fetch('data.json')
         if (item.image_src) {
           var image_wrapper = document.createElement('div');
           image_wrapper.className = 'image_wrapper';
-          image_wrapper.textContent = 'Imagem: '
 
           var img = document.createElement('img');
           img.className = 'image';

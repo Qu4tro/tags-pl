@@ -729,11 +729,6 @@
     "answer": "TODO"
   },
   {
-    "type": "Cabos, voltas e nós",
-    "question": "Identifique o nó / laçada representado na figura e dê um exemplo da sua aplicação",
-    "answer": "TODO"
-  },
-  {
     "type": "Âncoras e amarras",
     "question": "Observe a figura e diga como se designam, no ferro de almirantado, as partes referenciadas com os números",
     "answer": "1 - Haste\n2 - Anete\n3 - Cepo\n3A-Cotovelo\n4 - Nóz\n5 - Cruz\n6 - Braços\n7 - Pata\n8 - Unha\n9 - Orelhas\n",
@@ -772,11 +767,6 @@
   {
     "type": "Nomenclatura",
     "question": "Quais os 5 principais sectores de uma embarcação?",
-    "answer": "TODO"
-  },
-  {
-    "type": "Cabos, voltas e nós",
-    "question": "Identifique o nó / volta representado na figura",
     "answer": "TODO"
   },
   {
@@ -890,5 +880,23 @@
     "type": "Nomeclatura",
     "question": "A parte da embarcação abaixo da linha de água chama-se:",
     "answer": "Querena ou Obras vivas"
+  },
+  {
+    "type": "Cabos, voltas e nós",
+    "question": "Identifique o nó / laçada representado na figura e dê um exemplo da sua aplicação",
+    "answer": "Nome: Nó de escota\nAplicação: Emendar cabos de material/bitolas diferentes",
+    "image_src": "images/cabos1.png"
+  },
+  {
+    "type": "Cabos, voltas e nós",
+    "question": "Identifique o nó / laçada representado na figura e dê um exemplo da sua aplicação",
+    "answer": "?",
+    "image_src": "images/cabos3.png"
+  },
+  {
+    "type": "Cabos, voltas e nós",
+    "question": "Identifique o nó / volta representado na figura",
+    "answer": "?",
+    "image_src": "images/cabos2.png"
   }
 ]

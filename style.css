@@ -109,6 +109,13 @@ body {
 
 .result-item .image_wrapper {
   font-style: italic;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.result-item .image_wrapper img {
+  width: auto;
 }
 
 .result-item .image {
