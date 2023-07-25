@@ -1,10 +1,3 @@
-// Function to convert a string to Title Case
-function toTitleCase(str) {
-  return str.replace(/\w\S*/g, function(txt) {
-    return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
-  });
-}
-
 function myGetFn(obj, path) {
   path = Array.isArray(path) ? path : path.split('.');
   for (let i = 0, len = path.length; i < len; i++) {
@@ -57,7 +50,7 @@ fetch('data.json')
     types.forEach(type => {
       const option = document.createElement('option');
       option.value = type;
-      option.innerText = toTitleCase(type);
+      option.innerText = type;
       dropdown.appendChild(option);
     });
 
@@ -79,7 +72,7 @@ fetch('data.json')
 
         var type = document.createElement('div');
         type.className = 'type';
-        type.textContent = toTitleCase(item.type);
+        type.textContent = item.type;
         div.appendChild(type);
 
         var question = document.createElement('div');
@@ -93,10 +86,16 @@ fetch('data.json')
         div.appendChild(answer);
 
         if (item.image_src) {
+          var image_wrapper = document.createElement('div');
+          image_wrapper.className = 'image_wrapper';
+          image_wrapper.textContent = 'Imagem: '
+
           var img = document.createElement('img');
           img.className = 'image';
           img.src = item.image_src;
-          div.appendChild(img);
+
+          image_wrapper.appendChild(img);
+          div.appendChild(image_wrapper);
         }
 
         listResult.appendChild(div);
@@ -117,7 +116,7 @@ fetch('data.json')
 
         var type = document.createElement('div');
         type.className = 'type';
-        type.textContent = toTitleCase(item.item.type);
+        type.textContent = item.item.type;
         div.appendChild(type);
 
         var question = document.createElement('div');

@@ -107,6 +107,10 @@ body {
   color: #999;
 }
 
+.result-item .image_wrapper {
+  font-style: italic;
+}
+
 .result-item .image {
   width: 100%;
   height: auto;
