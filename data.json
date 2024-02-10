@@ -1,4 +1,5 @@
-[{
+[
+  {
     "type": "Abalroamentos",
     "question": "Como é que um navio desgovernado sinaliza essa situação aos navios na vizinhança durante o dia?",
     "answer": "Colocando dois balões esféricos no mastro."
@@ -898,5 +899,203 @@
     "question": "Identifique o nó / volta representado na figura",
     "answer": "?",
     "image_src": "images/cabos2.png"
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Como se define um navio com capacidade de manobra reduzida, e como se caracteriza de acordo com o RIEAM.",
+    "answer": "Um navio com capacidade de manobra reduzida é um navio que, pela natureza dos seus trabalhos não pode manobrar de acordo com o RIEAM."
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Quais são os meios disponíveis a bordo para cumprir uma vigilância contínua?",
+    "answer": "Vigilância visual com recurso a binóculos\nVigilância auditiva\nRadar\nVHF"
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Quais são os factores para a determinação da velocidade de segurança?",
+    "answer": "Visibilidade\nDensidade de Tráfego Marítimo\nCapacidade de manobra\nCondições do mar, da atmosfera e da proximidade de perigos para a navegação\nO calado em relação à profundidade de água disponível.\nDe noite, a presença de um fundo luminoso, tal como o criado por luzes de costa ou pela difusão de luzes de iluminação do próprio navio."
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Pode pescar num esquema de separação de tráfego?",
+    "answer": "Sim, na zona de separação do esquema de separação de tráfego."
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Quando se deve considerar um navio que alcança, na situaçã́o à vista um dos outros?",
+    "answer": "O navio que se aproximar de um outro vindo de uma direção que fique mais de 22.5º para ré do través desse outro. i.e. Que se encontra numa posição tal em relação ao navio alcançado que de notie só poderá ver o farol de popa desse navio, sem ver qualquer dos seus faróis de bordo."
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Em que circunstâncias de dia um navio de propulsão mecânica deve mostrar um balão bicónico preto.",
+    "answer": "Quando o comprimento do reboque ultrapassar 200 metros."
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Durante um quarto de navagação avista um navio com os seguintes faróis, farol da popa de luz branca e dois faróis dispostas verticalmente, sendo o superior verde e o inferior branco, visiveis em todo o horizonte. Identifique o navio.",
+    "answer": "Arrastão com seguimento"
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Tanto de dia como de noite numa zona de visibilidade reduzida, qual o sinal sonoro que um navio de propulsão mecânica com seguimento deve emitir?",
+    "answer": "Um som prolongado com intervalos que não ultrapassem dois minutos."
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "A areia é um dos meios de ataque preferenciais num incêndio de:",
+    "answer": "Hidrocarbonetos pesados ou óleos"
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Um incêndio de class A deve ser combatido com:",
+    "answer": "Água ou água com aditivos"
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Um incêndio num espaço fechado consome o oxigénio. Quando se abre a porta do compartimento:",
+    "answer": "O incêndio aumenta de forma explosiva"
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Qual é o sinal pirotécnico que alerta e indica, a partir do ar a posição aos meios de socorro que se encontram a longa distância?",
+    "answer": "Sinal com pára-quedas cor vermelha brilhante"
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Como devem estar colocados a bordo das embarcações de recreio a motor, com mais de 15 metros de comprimento, as jangadas pneumáticas?",
+    "answer": "Devem estar colocadas a bordo com os cabos de disparo permanentemente fixos, através de um sistema automático de libertação, de modo a permitir que flutuem livremente e se insuflem automaticamente no caso de as embarcações se afundarem."
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Em todos as comunicações deverá dizer sempre:",
+    "answer": "O nome da embarcação e/ou indicativo de chamada"
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Antes de proceder a uma chamada radiotelefónica, deve verificar se:",
+    "answer": "Não está em curso nenhuma chamada de \"Socorro\", \"Urgência\" ou \"Segurança\"."
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "O que significa uma marcação ao través?",
+    "answer": "Marcação ao través é quando a direção do alvo é 90º por BB ou EB em relação à proa da embarcação."
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "O que significa o alcance luminoso?",
+    "answer": "É a maior distância a que uma luz pode ser vista unicamente em função da sua intensidade luminosa, da visibilidade meterológica e da sensibilidade visual do observador."
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Efectue uma comunicação, tendo em conta a seguinte situação:\nNome da embarcação: Douro\nPosição: 30 milhas a Oeste do Farol de Leça\nNatureza do acidente: Alagamento\nAjuda pretendida: Auxílio imediato.\n\nDe acordo com a sua transmissão, simule a resposta da estação que ouviu o seu pedido, a ER Leixões, que informa que se dirige para a sua posição de imediato.",
+    "answer": "Mêdê, Mêdê, Mêdê\nAqui\nDouro, Douro, Douro\nMêdê\nAqui\nDouro\nPosição: 30 milhas a Oeste do Farol de Leça\nTenho \"água aberta\". Afundamento iminente. \nNecessito apoio urgente.\nEscuto.\n\nMêdê\nDouro, Douro, Douro\nAqui\nLeixões, Leixões, Leixões\nRecebido Mêdê\nSigo de imediato para local. ETA: ..... horas"
+  },
+
+  {
+    "type": "PatraoCosta",
+    "question": "CIS",
+    "answer": "A - Alfa; B - Bravo; C - Charlie; D - Delta; E - Echo; F - Foxtrot; G - Golf; H - Hotel; I - India; J - Juliet; K - Kilo; L - Lima; M - Mike; N - November; O - Oscar; P - Papa; Q - Quebec; R - Romeo; S - Sierra; T - Tango; U - Uniform; V - Victor; W - Whiskey; X - X-ray; Y - Yankee; Z - Zulu"
+  },
+
+  {
+    "type": "PatraoCosta",
+    "question": "Qual é o valor do erro de indice da figura abaixo indicada:",
+    "answer": "+3.7",
+    "image_src": "images/erroindice.png"
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Tanto de dia como de noite numa zona de visibilidade reduzida, qual o sinal sonoro que um navio de propulsão mecânica com seguimento deve emitir?",
+    "answer": "Ocultações simples. Luz em que a duração total da emissão luminosa em cada periodo é maior que a duração total de obscuridade e em que os intervalos de obscuridade têm habitualmente a mesma duração.",
+    "image_src": "images/luzfarol.png"
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Carta",
+    "answer": "23: 37º 00.8' N; 008º 41.0' W\n24: 00º 23.0' d=4.1Mn\n25: Pa=260.5 Pm = Pv - D; Pa = Pm - d\n26: Pa=295.5º; Vv=5.8º; ab=10ºBB --- Rumo=256º\n27: Visibilidade: 3.5Mn / Alcance: 17.5Mn\n28: Hora luz vermelha: 2100\n29: Ritmo: Relâmpagos, Cor da luz: Branco e Vermelho; Periodo de luz: 4s; Altitude do plano focal: 13m; Alcance Nominal: Sector Branco 14 milhas; Sector vermelho 11 milhas\n30: d=3.5ºE Zm = Zv - D"
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Enuncie os quatro parâmetros vitais que permitem identificar o estado de um paciente?",
+    "answer": "Ventilação, Pulso, Pressão arterial e temperatura"
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Num adulto saudável o número de pulsações normais varia entre?",
+    "answer": "65 a 80"
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Descreva o aspecto das nuvens Cúmulonimbus e o que prenunciam",
+    "answer": "Nuvems de grande desenvolvimento vertical, muito altos e cinzentos escuros na base. São nuvens de tempestade, que podem originar trovoadas, chuva forte, granizo e ventos fortes."
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "No local assinalado com um Y o vento sopra com _____ menor intensidade do que no local assinalado com um X",
+    "answer": "menor",
+    "image_src": "images/vento.png"
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Enuncie os quatro parâmetros vitais que permitem identificar o estado de um paciente?",
+    "answer": "Ventilação, Pulso, Pressão arterial e temperatura"
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "As marcas águas limpas têm as seguintes características",
+    "answer": "Significado: As marcas de água limpas indicam uma zona em seu redor na qual não há quaiser limitações relativas a fundos ou perigos.\nForma: Esférica, fuso ou antena com alvo esférico\nCor: Faixas verticais vermelhas e brancas\n Luz: Branca. Isofásica, Ocultações ou Relâmpagos longos 10s"
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Enuncie os quatro parâmetros vitais que permitem identificar o estado de um paciente?",
+    "answer": "Perigo isolado",
+    "image_src": "images/perigoisolado.png"
+  },
+
+  {
+    "type": "PatraoCosta",
+    "question": "Durante a noite avista a seguinte sinalização luminosa: Luz de cor branca com um ritmo cintilante rápido ou cintilante. Identifique a sinalização.",
+    "answer": "Boia Cardeal Norte"
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Ao navegar a motor, o combustível nos tanques de fundo de uma embarcaçã́o diminui e o centro de gravidade desloca-se para:",
+    "answer": "Cima"
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Enuncie os quatro parâmetros vitais que permitem identificar o estado de um paciente?",
+    "answer": "Sonda + Calado = Sr + Alt. Maré\nAlt. Maré = Sonda + Calado - Sr\nAlt Maré = 3 + 1 - 2 = 2m"
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Nos equipamentos radares, qual a finalidade dos supresssores e quais os cuidados a ter na sua utilização?",
+    "answer": "Destina-se a atenuar os ecos causados pela ondulação e pela chuva. Os supressores correm o risco de eliminar ecos de pequenos alvos se não utilizado com cuidado e moderaçã́o."
+  },
+
+  {
+    "type": "PatraoCosta",
+    "question": "Para que serve num radar o comando de marca de distância variável?",
+    "answer": "Estabelece e regula o diâmetro do anel indicador de distância, mostrando simultaneamente a distância correspondente."
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Marés: 07Mar 0533 1.0 1150 2.8 1752 1.1\nNa 1º enchente a altura chega a 1.70m a que horas?",
+    "answer": "0810"
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "O que significa o termo \"Zero Hidrográfico\"?",
+    "answer": "Superfície em relação à qual são referidas as sondas eas linhas isobatimétricas das cartas náuticas, bem como as previsões de altura de maré que são publicadas nas tabelas de marés do instituto hidrográfico."
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "Qual é o ângulo formado entre o Norte verdadeiro e o Norte de agulha",
+    "answer": "Variação"
+  },
+  {
+    "type": "PatraoCosta",
+    "question": "A bandeira A dos CIS significa:",
+    "answer": "Mergulhadores na água"
   }
 ]
