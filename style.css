@@ -22,6 +22,44 @@ body {
   text-decoration: none;
 }
 
+#ref-view {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 10px;
+  padding-top: 2em;
+  width: 100%;
+  max-width: 600px;
+}
+
+#ref-view div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1em; /* Added to space out each link set */
+}
+
+#ref-view div a {
+  padding: 1.1em;
+  text-decoration: none;
+  display: flex; /* Ensure the icon and text are in-line */
+  align-items: center; /* Aligns the icon and text vertically */
+  width: 100%; /* Extend the clickable area across the entire width */
+}
+
+#ref-view h2 {
+  margin: 0; /* Removes default margin to prevent layout shift */
+  padding-left: 10px; /* Adds some space between the icon and text */
+}
+
+.manual h2 {
+  text-decoration: none;
+  color: #ddd;
+}
+
+
 #list-view {
   display: flex;
   flex-direction: column;

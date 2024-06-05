@@ -27,7 +27,7 @@
   {
     "type": "Abalroamentos",
     "question": "Das opções abaixo indicadas escolha a correcta, no que respeita a direito de rumo",
-    "answer": "Todas estão certas. (Uma embarcação de propulsão mecânica desvia-se de uma embarcação que navega à vela quando esta se aprenta pelo seu EB; Uma embarcação de propulsão mecânica tem direito a rumo sobre uma embarcação de vela, quando a navegar num canal com capacidade de manobra reduzida, devido ao calado; Uma embarcação de propulsão mecânica desvia-se de uma embarcação que nevegue à vela."
+    "answer": "Todas estão certas. (Uma embarcação de propulsão mecânica desvia-se de uma embarcação que navega à vela quando esta se aprenta pelo seu EB; Uma embarcação de propulsão mecânica tem direito a rumo sobre uma embarcação de vela, quando a navegar num canal com capacidade de manobra reduzida, devido ao calado; Uma embarcação de propulsão mecânica desvia-se de uma embarcação que navegue à vela."
   },
   {
     "type": "Abalroamentos",
@@ -220,6 +220,11 @@
     "answer": "Variação"
   },
   {
+    "type": "Agulha magnética",
+    "question": "Qual é o ângulo formado entre o Norte verdadeiro e o Norte de agulha",
+    "answer": "Variação"
+  },
+  {
     "type": "Rumos e proas",
     "question": "O Abatimento pode ser:",
     "answer": "Para bombordo ou para estibordo."
@@ -242,7 +247,7 @@
   {
     "type": "Generalidades",
     "question": "A linha que resulta da intersectação de qualquer plano paralelo ao Equador com a superfície terrestre denomina-se:",
-    "answer": "Meridiano"
+    "answer": "Paralelo"
   },
   {
     "type": "Agulha magnética",
@@ -401,7 +406,7 @@
   },
   {
     "type": "Incêndios",
-    "question": "No caso de ocorrer um incêndio, dois gajos podem por este ser libertados: o dióxido e o monóxido de carbono. Sendo ambos prejudiciais à saúde, qual deles é mais nocivo?",
+    "question": "No caso de ocorrer um incêndio, dois gases podem por este ser libertados: o dióxido e o monóxido de carbono. Sendo ambos prejudiciais à saúde, qual deles é mais nocivo?",
     "answer": "O monóxido de carbono, que pode causar a morte por asfixia"
   },
   {
@@ -533,11 +538,6 @@
     "type": "Radiocomunicações",
     "question": "Os telegramas ou mensagens pedindo conselhos médicos devem ser precedido da expressão de serviço:",
     "answer": "Panepane"
-  },
-  {
-    "type": "Radiocomunicações",
-    "question": "Em todos as comunicações deverá dizer sempre:",
-    "answer": "O nome da embarcação e/ou indicativo de chamada"
   },
   {
     "type": "Radiocomunicações",
@@ -727,7 +727,7 @@
   {
     "type": "Nomenclatura",
     "question": "À peça na qual se apoia e trabalha o remo, dá-se o nome de:",
-    "answer": "TODO"
+    "answer": "Tolete"
   },
   {
     "type": "Âncoras e amarras",
@@ -848,7 +848,7 @@
     "answer": "Resistência do leme"
   },
   {
-    "type": "Nomeclatura",
+    "type": "Nomenclatura",
     "question": "Às partes curvas das obras mortas do costado de um e do outro lado da roda de proa, dá-se o nome de",
     "answer": "Amuras"
   },
@@ -868,17 +868,17 @@
     "answer": "Orçar"
   },
   {
-    "type": "Nomeclatura",
+    "type": "Nomenclatura",
     "question": "Como designa as regiões curvas junto à proa, de um e outro bordo da embarcação?",
     "answer": "Amuras"
   },
   {
     "type": "Cabos, voltas e nós",
     "question": "Os cabos destinados à amarração da embarcação ao cais, a outras embarcações, podendo ainda servir de reboque, designam-se por",
-    "answer": "Amarras (?)"
+    "answer": "Espias de atracação"
   },
   {
-    "type": "Nomeclatura",
+    "type": "Nomenclatura",
     "question": "A parte da embarcação abaixo da linha de água chama-se:",
     "answer": "Querena ou Obras vivas"
   },
@@ -901,113 +901,50 @@
     "image_src": "images/cabos2.png"
   },
   {
-    "type": "PatraoCosta",
+    "type": "Abalroamentos",
     "question": "Como se define um navio com capacidade de manobra reduzida, e como se caracteriza de acordo com o RIEAM.",
     "answer": "Um navio com capacidade de manobra reduzida é um navio que, pela natureza dos seus trabalhos não pode manobrar de acordo com o RIEAM."
   },
   {
-    "type": "PatraoCosta",
+    "type": "Segurança",
     "question": "Quais são os meios disponíveis a bordo para cumprir uma vigilância contínua?",
     "answer": "Vigilância visual com recurso a binóculos\nVigilância auditiva\nRadar\nVHF"
   },
   {
-    "type": "PatraoCosta",
+    "type": "Segurança",
     "question": "Quais são os factores para a determinação da velocidade de segurança?",
     "answer": "Visibilidade\nDensidade de Tráfego Marítimo\nCapacidade de manobra\nCondições do mar, da atmosfera e da proximidade de perigos para a navegação\nO calado em relação à profundidade de água disponível.\nDe noite, a presença de um fundo luminoso, tal como o criado por luzes de costa ou pela difusão de luzes de iluminação do próprio navio."
   },
   {
-    "type": "PatraoCosta",
-    "question": "Pode pescar num esquema de separação de tráfego?",
-    "answer": "Sim, na zona de separação do esquema de separação de tráfego."
-  },
-  {
-    "type": "PatraoCosta",
-    "question": "Quando se deve considerar um navio que alcança, na situaçã́o à vista um dos outros?",
-    "answer": "O navio que se aproximar de um outro vindo de uma direção que fique mais de 22.5º para ré do través desse outro. i.e. Que se encontra numa posição tal em relação ao navio alcançado que de notie só poderá ver o farol de popa desse navio, sem ver qualquer dos seus faróis de bordo."
-  },
-  {
-    "type": "PatraoCosta",
-    "question": "Em que circunstâncias de dia um navio de propulsão mecânica deve mostrar um balão bicónico preto.",
-    "answer": "Quando o comprimento do reboque ultrapassar 200 metros."
-  },
-  {
-    "type": "PatraoCosta",
-    "question": "Durante um quarto de navagação avista um navio com os seguintes faróis, farol da popa de luz branca e dois faróis dispostas verticalmente, sendo o superior verde e o inferior branco, visiveis em todo o horizonte. Identifique o navio.",
-    "answer": "Arrastão com seguimento"
-  },
-  {
-    "type": "PatraoCosta",
-    "question": "Tanto de dia como de noite numa zona de visibilidade reduzida, qual o sinal sonoro que um navio de propulsão mecânica com seguimento deve emitir?",
-    "answer": "Um som prolongado com intervalos que não ultrapassem dois minutos."
-  },
-  {
-    "type": "PatraoCosta",
-    "question": "A areia é um dos meios de ataque preferenciais num incêndio de:",
-    "answer": "Hidrocarbonetos pesados ou óleos"
-  },
-  {
-    "type": "PatraoCosta",
-    "question": "Um incêndio de class A deve ser combatido com:",
-    "answer": "Água ou água com aditivos"
-  },
-  {
-    "type": "PatraoCosta",
-    "question": "Um incêndio num espaço fechado consome o oxigénio. Quando se abre a porta do compartimento:",
-    "answer": "O incêndio aumenta de forma explosiva"
-  },
-  {
-    "type": "PatraoCosta",
-    "question": "Qual é o sinal pirotécnico que alerta e indica, a partir do ar a posição aos meios de socorro que se encontram a longa distância?",
-    "answer": "Sinal com pára-quedas cor vermelha brilhante"
-  },
-  {
-    "type": "PatraoCosta",
-    "question": "Como devem estar colocados a bordo das embarcações de recreio a motor, com mais de 15 metros de comprimento, as jangadas pneumáticas?",
-    "answer": "Devem estar colocadas a bordo com os cabos de disparo permanentemente fixos, através de um sistema automático de libertação, de modo a permitir que flutuem livremente e se insuflem automaticamente no caso de as embarcações se afundarem."
-  },
-  {
-    "type": "PatraoCosta",
-    "question": "Em todos as comunicações deverá dizer sempre:",
-    "answer": "O nome da embarcação e/ou indicativo de chamada"
-  },
-  {
-    "type": "PatraoCosta",
+    "type": "Radiocomunicações",
     "question": "Antes de proceder a uma chamada radiotelefónica, deve verificar se:",
     "answer": "Não está em curso nenhuma chamada de \"Socorro\", \"Urgência\" ou \"Segurança\"."
   },
   {
-    "type": "PatraoCosta",
+    "type": "Nomenclatura",
     "question": "O que significa uma marcação ao través?",
     "answer": "Marcação ao través é quando a direção do alvo é 90º por BB ou EB em relação à proa da embarcação."
   },
   {
-    "type": "PatraoCosta",
+    "type": "Alcance Luminoso",
     "question": "O que significa o alcance luminoso?",
     "answer": "É a maior distância a que uma luz pode ser vista unicamente em função da sua intensidade luminosa, da visibilidade meterológica e da sensibilidade visual do observador."
   },
   {
-    "type": "PatraoCosta",
+    "type": "Radiocomunicações",
     "question": "Efectue uma comunicação, tendo em conta a seguinte situação:\nNome da embarcação: Douro\nPosição: 30 milhas a Oeste do Farol de Leça\nNatureza do acidente: Alagamento\nAjuda pretendida: Auxílio imediato.\n\nDe acordo com a sua transmissão, simule a resposta da estação que ouviu o seu pedido, a ER Leixões, que informa que se dirige para a sua posição de imediato.",
     "answer": "Mêdê, Mêdê, Mêdê\nAqui\nDouro, Douro, Douro\nMêdê\nAqui\nDouro\nPosição: 30 milhas a Oeste do Farol de Leça\nTenho \"água aberta\". Afundamento iminente. \nNecessito apoio urgente.\nEscuto.\n\nMêdê\nDouro, Douro, Douro\nAqui\nLeixões, Leixões, Leixões\nRecebido Mêdê\nSigo de imediato para local. ETA: ..... horas"
   },
-
   {
-    "type": "PatraoCosta",
+    "type": "Radiocomunicações",
     "question": "CIS",
     "answer": "A - Alfa; B - Bravo; C - Charlie; D - Delta; E - Echo; F - Foxtrot; G - Golf; H - Hotel; I - India; J - Juliet; K - Kilo; L - Lima; M - Mike; N - November; O - Oscar; P - Papa; Q - Quebec; R - Romeo; S - Sierra; T - Tango; U - Uniform; V - Victor; W - Whiskey; X - X-ray; Y - Yankee; Z - Zulu"
   },
-
   {
     "type": "PatraoCosta",
     "question": "Qual é o valor do erro de indice da figura abaixo indicada:",
     "answer": "+3.7",
     "image_src": "images/erroindice.png"
-  },
-  {
-    "type": "PatraoCosta",
-    "question": "Tanto de dia como de noite numa zona de visibilidade reduzida, qual o sinal sonoro que um navio de propulsão mecânica com seguimento deve emitir?",
-    "answer": "Ocultações simples. Luz em que a duração total da emissão luminosa em cada periodo é maior que a duração total de obscuridade e em que os intervalos de obscuridade têm habitualmente a mesma duração.",
-    "image_src": "images/luzfarol.png"
   },
   {
     "type": "PatraoCosta",
@@ -1031,71 +968,1512 @@
   },
   {
     "type": "PatraoCosta",
-    "question": "No local assinalado com um Y o vento sopra com _____ menor intensidade do que no local assinalado com um X",
-    "answer": "menor",
-    "image_src": "images/vento.png"
-  },
-  {
-    "type": "PatraoCosta",
-    "question": "Enuncie os quatro parâmetros vitais que permitem identificar o estado de um paciente?",
-    "answer": "Ventilação, Pulso, Pressão arterial e temperatura"
-  },
-  {
-    "type": "PatraoCosta",
-    "question": "As marcas águas limpas têm as seguintes características",
-    "answer": "Significado: As marcas de água limpas indicam uma zona em seu redor na qual não há quaiser limitações relativas a fundos ou perigos.\nForma: Esférica, fuso ou antena com alvo esférico\nCor: Faixas verticais vermelhas e brancas\n Luz: Branca. Isofásica, Ocultações ou Relâmpagos longos 10s"
-  },
-  {
-    "type": "PatraoCosta",
-    "question": "Enuncie os quatro parâmetros vitais que permitem identificar o estado de um paciente?",
+    "question": "Identifique o significado da bóia?",
     "answer": "Perigo isolado",
     "image_src": "images/perigoisolado.png"
   },
-
   {
     "type": "PatraoCosta",
     "question": "Durante a noite avista a seguinte sinalização luminosa: Luz de cor branca com um ritmo cintilante rápido ou cintilante. Identifique a sinalização.",
     "answer": "Boia Cardeal Norte"
   },
   {
-    "type": "PatraoCosta",
-    "question": "Ao navegar a motor, o combustível nos tanques de fundo de uma embarcaçã́o diminui e o centro de gravidade desloca-se para:",
+    "type": "Segurança",
+    "question": "Ao navegar a motor, o combustível nos tanques de fundo de uma embarcação diminui e o centro de gravidade desloca-se para:",
     "answer": "Cima"
   },
   {
-    "type": "PatraoCosta",
-    "question": "Enuncie os quatro parâmetros vitais que permitem identificar o estado de um paciente?",
+    "type": "Marés",
+    "question": "Navega numa zona onde a sonda reduzia é de Sr = 2 metros, sabendo que o calado da sua embarcação é de 1 metro e que a sonda colocada na quilha marca 3 metros, qual é a altura da maré nesse momento?",
     "answer": "Sonda + Calado = Sr + Alt. Maré\nAlt. Maré = Sonda + Calado - Sr\nAlt Maré = 3 + 1 - 2 = 2m"
   },
   {
-    "type": "PatraoCosta",
+    "type": "Radar",
     "question": "Nos equipamentos radares, qual a finalidade dos supresssores e quais os cuidados a ter na sua utilização?",
     "answer": "Destina-se a atenuar os ecos causados pela ondulação e pela chuva. Os supressores correm o risco de eliminar ecos de pequenos alvos se não utilizado com cuidado e moderaçã́o."
   },
-
   {
-    "type": "PatraoCosta",
+    "type": "Radar",
     "question": "Para que serve num radar o comando de marca de distância variável?",
     "answer": "Estabelece e regula o diâmetro do anel indicador de distância, mostrando simultaneamente a distância correspondente."
   },
   {
-    "type": "PatraoCosta",
+    "type": "Marés",
     "question": "Marés: 07Mar 0533 1.0 1150 2.8 1752 1.1\nNa 1º enchente a altura chega a 1.70m a que horas?",
-    "answer": "0810"
+    "answer": "Altura da maré de 1.70 metros às 0810"
   },
   {
-    "type": "PatraoCosta",
+    "type": "Marés",
     "question": "O que significa o termo \"Zero Hidrográfico\"?",
-    "answer": "Superfície em relação à qual são referidas as sondas eas linhas isobatimétricas das cartas náuticas, bem como as previsões de altura de maré que são publicadas nas tabelas de marés do instituto hidrográfico."
+    "answer": "Superfície em relação à qual são referidas as sondas e as linhas isobatimétricas das cartas náuticas, bem como as previsões de altura de maré que são publicadas nas tabelas de marés do instituto hidrográfico."
   },
   {
-    "type": "PatraoCosta",
-    "question": "Qual é o ângulo formado entre o Norte verdadeiro e o Norte de agulha",
-    "answer": "Variação"
+    "type": "Brainscape - Luzes (Faróis) e Balões",
+    "question": "Indique os faróis e ângulos de visibilidade de um navio de propulsão mecânica, com comprimento superior a 50 metros?",
+    "answer": "Um navio de propulsão mecânica com mais de 50 metros deve possuir:\n\n- Dois farois de mastro de luz branca, com ângulo de visibilidade de 225º centrado na proa. O mastro de vante deverá ser mais baixo que o de ré;\n- Dois faróis de bordo, um a BB e outro a EB, de cor vermelha e verde respectivamente, formando um ângulo de 112,5º a partir da proa para cada um dos bordos;\n- Um farol de popa de luz branca com um ângulo de 135º centrado na popa."
   },
   {
-    "type": "PatraoCosta",
-    "question": "A bandeira A dos CIS significa:",
-    "answer": "Mergulhadores na água"
+    "type": "Brainscape - Luzes (Faróis) e Balões",
+    "question": "Caracterize a expressão faróis de borda.",
+    "answer": "Designa os faróis de luz verde e vermelha, colocados a estibordo e bombordo respectivamente, e que projectam luz para cada um dos respectivos bordos num ângulo de 112,5º a partir da proa."
+  },
+  {
+    "type": "Brainscape - Luzes (Faróis) e Balões",
+    "question": "Caracterize a expressão farol de mastro.",
+    "answer": "A expressão farol de mastro designa um farol de luz branca ininterrupta, colocado sobre o eixo longitudinal do navio, projectando uma luz num ângulo de 225º centrado na proa."
+  },
+  {
+    "type": "Brainscape - Luzes (Faróis) e Balões",
+    "question": "Em que circunstância de dia um navio de propulsão mecânica deve mostrar um balão bicónico preto?",
+    "answer": "Um balão bicónico preto deve ser mostrado se o comprimento do reboque for superior a 200 metros."
+  },
+  {
+    "type": "Brainscape - Luzes (Faróis) e Balões",
+    "question": "Como se assinala a condição de navio fundeado, de comprimento inferior a 50 metros e superior a 7 metros?",
+    "answer": "Um navio fundeado deve:\n\n- de dia mostrar onde melhor possa ser visto um balão preto esférico, a vante;\n- ou, um farol de luz branca visível em todo o horizonte."
+  },
+  {
+    "type": "Brainscape - Luzes (Faróis) e Balões",
+    "question": "Como se deve assinalar a sua condição de embarcação desgovernada?",
+    "answer": "Um navio desgovernado deve assinalar a sua condição:\n\n- de dia, mostrando dois balões esféricos dispostos na mesma linha vertical onde melhor possam ser vistos;\n- de noite, mostrando duas luzes vermelhas visíveis em todo o horizonte, dispostas na mesma linha vertical onde melhor possam ser vistas;\n- de noite e se o navio tiver seguimento, deve ainda mostrar os faróis de bordo e o farol de popa."
+  },
+  {
+    "type": "Brainscape - Luzes (Faróis) e Balões",
+    "question": "Como deve assinalar a situação de fundeado, um navio com comprimento inferior a 7 metros?",
+    "answer": "Um navio de comprimento inferior a 7 metros, quando está fundeado não é obrigado a mostrar faróis ou balão excepto se fundeado:\n\n- num canal estreito;\n- via de acesso;\n- fundeadouro;\n- zona habitualmente frequentada por outros navios."
+  },
+  {
+    "type": "Brainscape - Luzes (Faróis) e Balões",
+    "question": "Durante um quarto de navegação avista um navio com os seguintes faróis, farol da popa de luz branca e dois faróis dispostos verticalmente, sendo o superior verde e o inferior branco, visíveis em todo o horizonte. Identifique o navio?",
+    "answer": "Trata-se de um navio em faina de pesca de arrasto com seguimento."
+  },
+  {
+    "type": "Brainscape - Luzes (Faróis) e Balões",
+    "question": "Como deve assinalar a situação de fundeado, um navio com comprimento inferior a 50 metros?",
+    "answer": "Um navio fundeado com comprimento inferior a 50 metros, pode mostrar, onde melhor possa ser visto, um farol de luz branca visível em todo o horizonte, ou um balão esférico preto a vante."
+  },
+  {
+    "type": "Brainscape - Luzes (Faróis) e Balões",
+    "question": "Durante um quarto de navegação foi avistado um navio com os seguintes faróis:\n- Dois faróis dispostos na mesma linha vertical, visíveis em todo o horizonte, sendo o superior de luz vermelha e o inferior de luz branca.\nO que significam estes faróis?",
+    "answer": "Trata-se de um navio em faina de pesca, sem seguimento."
+  },
+  {
+    "type": "Brainscape - Luzes (Faróis) e Balões",
+    "question": "Quais os faróis e balões obrigatórios que devem exibir os navios à vela ou a remos a navegar?",
+    "answer": "Um navio à vela a navegar deve mostrar faróis de bordo e um farol de popa. Um navio a remos pode mostrar os faróis como os navios à vela, mas se não o fizer deve ter presente a mostrar imediatamente uma lâmpada eléctrica de luz branca. Um navio à vela, quando seja propulsionado mecanicamente deve mostrar a vante um balão cónico preto, com o vértice para baixo."
+  },
+  {
+    "type": "Brainscape - Sinais Sonoros",
+    "question": "Numa condição de visibilidade reduzida, como deve evidenciar a situação de embarcação desgovernada?",
+    "answer": "Um navio desgovernado deve emitir três sons consecutivos, sendo um som prolongado seguido de dois curtos, com intervalos não superiores a dois minutos.\nSons: - . ."
+  },
+  {
+    "type": "Brainscape - Sinais Sonoros",
+    "question": "Tanto de dia como de noite numa zona de visibilidade reduzida, qual o sinal sonoro que um navio de propulsão mecânica com seguimento deve emitir?",
+    "answer": "Um som prolongado com intervalos que não ultrapassem os dois minutos."
+  },
+  {
+    "type": "Brainscape - Sinais Sonoros",
+    "question": "Em condições de visibilidade reduzida ouviu dois apitos longos, com intervalo de repetição inferior a 2 minutos. Qual o significado do sinal sonoro?",
+    "answer": "Navio de propulsão mecânica pairando."
+  },
+  {
+    "type": "Brainscape - Sinais Sonoros",
+    "question": "O que pode significar um sinal sonoro constituído por um som prolongado, seguido de dois sons curtos com um intervalor máximo de repetição de dois minutos?",
+    "answer": "Pode significar a presença de:\n\n- navio que reboca ou empurra\n- navio com capacidade de manobra reduzida\n- navio desgovernado\n- navio condicionado pelo calado\n- navio à vela\n- navio em faina de pesca"
+  },
+  {
+    "type": "Brainscape - Sinais Sonoros",
+    "question": "Em condições de visibilidade reduzida ouviu três apitos, o primeiro curto, o segundo longo e o terceiro curto. Qual o significado do sinal sonoro?",
+    "answer": "Navio fundeado."
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Identifique as situações em que um navio à vela deve afastar-se do caminho de outro.",
+    "answer": "Um navio a navegar à vela deve afastar-se de outro que se desgovernado, com capacidade de manobra reduzida (a executar trabalhos) e em faina de pesca."
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Como deve navegar num canal estreito ou numa via de acesso?",
+    "answer": "Tendo em conta as condições de segurança, a navegação deve efectuar-se o mais próximo possível do limite exterior do canal ou da via de acesso que ficar por estibordo."
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Como deve navegar uma embarcação à vela, num canal estreito ou numa via de acesso?",
+    "answer": "Quando o puder fazer sem perigo, deverá navegar tão próximo quanto possível do limite exterior do canal ou da via de acesso que lhe ficar por estibordo.\nNão deve dificultar a passagem de navios que apenas podem navegar em segurança num canal estreito ou numa via de acesso.\nNão deve atravessar se, ao fazê-lo, dificultar a passagem de navios que só podem navegar nesse canal ou via de acesso."
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Diga como devem proceder os navios sem prioridade à vista uns dos outros.",
+    "answer": "Os navios que navegam sem prioridade devem afastar-se do caminho de outros, tanto quanto possível, manobrando com a antecedência necessária e francamente."
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "O que significa a expressão navio desgovernado?",
+    "answer": "Designa todo o navio que, por circunstâncias excepcionais, não está em condições de poder manobrar em conformidade com o RIEAM e não pode, portanto, afastar-se do caminho de outro navio."
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Como se define um navio condicionado pelo seu calado e como se caracteriza de acordo com o RIEAM?",
+    "answer": "A expressão «navio condicionado pelo seu calado» designa todo o navio que, devido à relação calado/profundidade de água disponível, tem severamente limitada a sua capacidade de alterar o rumo a que navega."
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Como se define um navio com capacidade de manobra reduzida, e como se caracteriza de acordo com o RIEAM.",
+    "answer": "A expressão navio com capacidade de manobra reduzida define todo o navio que por força dos trabalhos que executa vê a sua capacidade de manobra reduzida, não estando assim em condições de manobrar em conformidade com o RIEAM e não pode, portanto, afastar-se de outro navio."
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Quando se deve considerar um navio que alcança, na situação à vista uns dos outros?",
+    "answer": "Deve considerar-se navio alcançante todo aquele que se aproxima de outro por uma direcção cujo ângulo é superior a 22,5º para a ré do través do navio alcançado. De noite, o navio alcançante deve conseguir apenas observar o farol de popa do navio alcançado, ou seja, os faróis de borda deverão estar ocultos."
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Quais são os factores para a determinação da velocidade de segurança?",
+    "answer": "1 - A visibilidade;\n2 - As condições de vento, mar e corrente e a proximidade de perigos para a navegação;\n3 - O calado em relação à profundidade de água.\n4 - A densidade do tráfego marítimo;\n5 - A capacidade de manobra do navio, particularmente no que respeita à distância de paragem e capacidade de giração nas condições existentes;\n6 - De, a presença de fundo luminoso, tal como o criado por luzes de costa ou pela difusão das luzes de iluminação do próprio navio;"
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Diga como devem proceder dois navios à vela que se aproximam um do outro, com risco de abalroamento?",
+    "answer": "A navegar com o vento pelo mesmo bordo, perde o direito de rumo aquele que se encontrar mais a barlavento;\nA navegar com o vento por bordos diferentes, perde o direito de rumo aquele que recebe o vendo por bombordo;\nSe um navio que recebe vento por bombordo avista outro a barlavento mas não consegue identificar por que bordo este recebe o vento, então deve afastar-se do caminho do segundo."
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Como devem proceder os navios de propulsão mecânica à vista uns dos outros em rumos cruzados, com risco de abalroamento?",
+    "answer": "Em caso de navios de propulsão mecânica que navegam em rumos cruzados com risco de abalroamento, deve desviar-se aquele que avista o outro por estibordo, manobrando atempada e francamente, evitando, se possível, cortar-lhe a proa."
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Pode pescar num esquema de separação de tráfego?",
+    "answer": "Pode, na zona de separação do esquema de separação de tráfego."
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Navega em propulsão mecânica. Explique qual o procedimento que adopta se avistar um navio de propulsão mecânica pela marcação 100º EB em rumos que se cruzam, de tal forma que existe risco de abalroamento.",
+    "answer": "O navio que observa o outro pela marcação de 100º EB deve desviar-se, manobrando para EB e, se possível, evitando cortar-lhe a proa."
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Explique o significado de visibilidade reduzida.",
+    "answer": "A expressão visibilidade reduzida designa toda a situação em que a visibilidade é diminuída em consequência de nevoeiro, neblina, queda de neve, aguaceiros fortes, tempestades de areia ou por quaisquer outras causas análogas."
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Quais os sinais que deve utilizar um navio que está em perigo e pede assistência?",
+    "answer": "Sinal sonoro contínuo\nSinal SOS em código morse\nSinal rádiotelefónico Mayday\nFoguetes ou bombas com projecção de estrelas de cor vermelha\nTiros ou outros sinais explosivos\nFogueiras a bordo\nFoguete pára-quedas ou facho de mão"
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Durante um quarto de navegação deve ser assegurada permanentemente uma vigilância contínua, independentemente das condições de visibilidade, de modo a permitir uma apreciação completa da situação e do risco de abalroamento. Quais os meios disponíveis a bordo para cumprir este objectivo?",
+    "answer": "Observação visual directa, com ou sem uso de equipamento adicional - binóculos, por exemplo;\nVigilância auditiva contínua;\nUtilização de equipamento electrónico como Radar ou AIS;\nUtilização do VHF."
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Um navio à vela e um navio de propulsão mecânica em faina de pesca navegam em rumos de colisão. O navio à vela marca o navio de propulsão mecânica por 45º estibordo. Numa situação destas como deve proceder o navio à vela?",
+    "answer": "Um navio à vela deve ceder o rumo e desviar-se de uma embarcação de propulsão mecânica em faina de pesca, independentemente da marcação ou bordo pelo qual a observa."
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Considera-se que existe risco de abalroamento sempre que a marcação ________________ e ____________________.",
+    "answer": "se mantiver\n- a distância diminuir"
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Como devem ser feitas as manobras para evitar abalroamentos?",
+    "answer": "As manobras para evitar abalroamentos devem ser efectuadas com a máxima antecedência possível e de forma clara, e em conformidade com as regras do RIEAM."
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Como se define um navio à vela, isto é, como se caracteriza de acordo com o RIEAM?",
+    "answer": "De acordo com o RIEAM, define-se como navio à vela todo aquele cujo único meio de propulsão em uso é o seu conjunto de velas. Caso tenha máquina propulsora, não está a fazer uso dela."
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Pode um navio fundear no interior de um esquema de separação de tráfego ou zonas próximas dos seus extremos?",
+    "answer": "Um navio deve evitar, na medida do possível, fundear no interior de um Esquema de Separação de Tráfego ou em zonas próximas dos seus extremos."
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "O que significa a expressão navio em faina de pesca?",
+    "answer": "A expressão navio em faina de pesca define todo o navio que está a pescar com redes, linhas, arrasto ou qualquer outra arte de pesca que reduza a sua capacidade de manobra."
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Para que serve e como deve ser feito o registo radar (plotting) para ser correctamente utilizado?",
+    "answer": "Se disponível a bordo da embarcação, o radar deve ser monitorizado regularmente, fazendo o uso das escalas de maior alcance e do registo radar ou prática equivalente, de forma a permitir a detecção o mais atempada possível de outras embarcações e eventual risco de abalroamento.\nOutra resposta: Se existir a bordo um equipamento radar operativo, deve ser correctamente utilizado, recorrendo às escalas de maior alcance a fim de avaliar, tão cedo quanto possível, um risco de abalroamento, bem como ao registo radar (“plotting”) ou qualquer outra observação sistemática equivalente dos objectos detectados."
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Se detectar unicamente com o radar a presença de outro navio e se se está a criar uma situação de aproximação excessiva e / ou se existe risco de abalroamento como deve proceder se o outro navio se encontrar pelo través ou para ré do través e a medida adoptada consistir numa alteração de rumo.",
+    "answer": "Deve efectuar-se uma manobra de alteração de rumo com a maior antecedência possível de forma a evitar o risco de abalroamento. Caso o outro navio seja detectado pelo través, ou para ré deste, deve, na medida do possível, evitar-se manobrar na direcção do outro navio."
+  },
+  {
+    "type": "Brainscape - RIEAM",
+    "question": "Se detectar unicamente com o radar (visibilidade reduzida) a presença de outro navio por ré do través de EB e avaliar que se está a criar uma situação de aproximação excessiva com risco de abalroamento, qual a manobra que deve efectuar se decidir por uma alteração de rumo?",
+    "answer": "Nesse caso o navio que detecta o outro deverá manobrar com a máxima antecedência possível, preferencialmente para BB, evitando assim ir na direcção do navio que se encontra a ré do través de EB."
+  },
+  {
+    "type": "Brainscape - Primeiros Socorros",
+    "question": "Quais os três parâmetros para classificar uma queimadura?",
+    "answer": "1 - Agente causal\n2 - Profundidade\n3 - Extensão"
+  },
+  {
+    "type": "Brainscape - Primeiros Socorros",
+    "question": "Quais as medidas de emergência numa queimadura?",
+    "answer": "Não tirar as roupas bruscamente.\nSe as roupas estiverem coladas, cortar em volta.\nNão aplicar pomadas, cremes ou manteiga.\nNão rebentar as flictenas."
+  },
+  {
+    "type": "Brainscape - Primeiros Socorros",
+    "question": "Caracterize as queimaduras em 1º grau.",
+    "answer": "Atinge a epiderme, a pele fica vermelha, quente e muito dolorosa."
+  },
+  {
+    "type": "Brainscape - Primeiros Socorros",
+    "question": "Ao providenciar o alerta às autoridades de socorro sobre o estado de uma vítima de um acidente a bordo da sua embarcação deve enunciar as suas funções vitais. Enuncie-as.",
+    "answer": "Pulso, ventilação, temperatura, estado de consciência."
+  },
+  {
+    "type": "Brainscape - Primeiros Socorros",
+    "question": "Como deve actuar perante uma hemorragia grave dos membros ou cabeça de um tripulante?\na) Deve ser aplicada pressão directa com uma compressa, sobre a ferida.\nb) Deve ser aplicada pressão directa sobre a ferida, com a zona afectada ligeiramente elevada.\nc) Deve ser aplicada pressão directa sobre a ferida, com a zona afectada ligeiramente baixa.\nd) Deve ser aplicada pressão directa sobre a ferida, com a zona afectada em plano direito.",
+    "answer": "b"
+  },
+  {
+    "type": "Brainscape - Primeiros Socorros",
+    "question": "Num adulto saudável o número de pulsações normais varia entre?",
+    "answer": "65 e 80"
+  },
+  {
+    "type": "Brainscape - Primeiros Socorros",
+    "question": "Preencha o espaço em branco com a alternativa correcta\nUm cuidado básico a ter, quando ocorre uma queimadura é _______________ (rebentar imediatamente / nunca rebentar) as bolhas que se formam.",
+    "answer": "Nunca rebentar"
+  },
+  {
+    "type": "Brainscape - Primeiros Socorros",
+    "question": "Uma vítima consciente com hemorragia numa perna deve ser transportada de que forma: ______________________",
+    "answer": "Deitada com os pés para cima."
+  },
+  {
+    "type": "Brainscape - Primeiros Socorros",
+    "question": "Enuncie os cuidados de emergência a ter em caso de Hipotermia?",
+    "answer": "Afastar da fonte\nRetirar as roupas molhadas\nLimpar e secar\nColocar em local abrigado do vento\nAquecer"
+  },
+  {
+    "type": "Brainscape - Primeiros Socorros",
+    "question": "Quais as informações, particulares da doença que devem estar disponíveis aquando da requisição de conselho médico via rádio?",
+    "answer": "Quando começou\nComo começou (de súbito, lentamente, …)\nQuais as primeiras queixas do doente\nLista de todas as queixas e sintomas\nDescrição da evolução da doença, desdo o começo até ao tempo presente\nIndicar a histórica clínica (doenças, ferimentos, operações)\nIndicar particularidades sobre doenças na família\nDescrever detalhes sociais ou ocupações que possam ser importantes\nListar todos os medicamentos que o doente estava a tomar antes da doença presente\nIndicar se o doente bebeu bebidas alcoólicas ou outra substância não medicinal"
+  },
+  {
+    "type": "Brainscape - Primeiros Socorros",
+    "question": "Quais são os factores de que depende a gravidade de uma queimadura?",
+    "answer": "Profundidade ou grau, Extensão, Zona afectada e Idade"
+  },
+  {
+    "type": "Brainscape - Primeiros Socorros",
+    "question": "Como classifica as queimaduras segundo a sua profundidade?",
+    "answer": "Queimaduras de 1º, 2º e 3º grau."
+  },
+  {
+    "type": "Brainscape - Incêndios",
+    "question": "A areia é um dos meios de ataque preferenciais num incêndio de ______________________ .",
+    "answer": "Hidrocarbonetos pesados ou óleos"
+  },
+  {
+    "type": "Brainscape - Incêndios",
+    "question": "Um incêndio num espaço fechado consome o oxigénio. Quando se abre a porta do compartimento:\na) Já não há perigo\nb) O incêndio aumenta de forma explosiva\nc) O ar que entra apaga o incêndio",
+    "answer": "b"
+  },
+  {
+    "type": "Brainscape - Incêndios",
+    "question": "O pó químico é dos produtos mais eficazes contra fogos, apesar da sua eficácia apresente as suas contra-indicações.",
+    "answer": "Nos incêndios de classe A age só superficialmente.\nDeixa resíduos dificilmente removíveis que podem ser corrosivos, danificando os circuitos electrónicos e equipamentos mecânicos de alta precisão.\nTêm pouca capacidade de arrefecimento, pelo que o fogo pode reacender facilmente.\nEm espaços pequenos a nuvem provocada pelo pó, além de tirar a visibilidade pode provocar choques eléctricos.\nTem custo elevado."
+  },
+  {
+    "type": "Brainscape - Incêndios",
+    "question": "Um incêndio de classe A deve ser combatido com:",
+    "answer": "Água ou água com aditivos."
+  },
+  {
+    "type": "Brainscape - Incêndios",
+    "question": "Quais as medidas a tomar em caso de incêndio?",
+    "answer": "Accionar o alarme\nConcentrar todos os tripulantes\nConsultar o plano de incêndio (se disponível a bordo)\nLocalizar o extintor mais próximo\nCombater o fogo se possível\nIsolar o fogo mantendo a zona fechada e iniciar o arrefecimento da zona\nTransmitir uma mensagem de socorro “May day”"
+  },
+  {
+    "type": "Brainscape - Incêndios",
+    "question": "O que fazer perante um incêndio a bordo?",
+    "answer": "1) Nunca abandonar a embarcação sem tentar primeiro apagar o fogo\n2) Quando detectado o fogo, dar o alarme interno e tentar apagar o fogo\n3) Colocar o fogo sempre a sotavento\n4) Accionar o alarme externo se necessário"
+  },
+  {
+    "type": "Brainscape - Incêndios",
+    "question": "Na prevenção de incêndios a limpeza, bom senso e boa higiene pessoal são os melhores meios de prevenir um incêndio numa embarcação.\nIndique 3 medidas para a prevenção de incêndios.",
+    "answer": "Nunca fumar onde houver sinal “Proíbido Fumar”\nNão fumar nos espaços para dormir\nApagar bem as pontas dos cigarros\nNunca secar panos, nem roupa num fogão de cozinha\nDesligar o equipamento eléctrico quando não estiver a ser utilizado\nManter as válvulas de corte de gás fechadas quando não estão em utilização\nEfectuar revisões periódicas à cablagem eléctrica e efectuar eventuais reparações imediatamente"
+  },
+  {
+    "type": "Brainscape - Incêndios",
+    "question": "Quais as classes de incêndios que conhece?",
+    "answer": "Classe A - Sólidos\nClasse B - Líquidos\nClasse C - Gasosos\nClasse D - Metais\nClasse E - Equipamentos eléctricos"
+  },
+  {
+    "type": "Brainscape - Incêndios",
+    "question": "Apresente as principais características do CO2, anidrido carbónico ou neve carbónica como agente extintor de fogos.",
+    "answer": "Baixo custo, abundante, limpo, não deixa resíduos, não é corrosivo, não é condutor de electricidade e não é tóxico. É um gás inerte que extingue os fogos substituindo o oxigénio por asfixia."
+  },
+  {
+    "type": "Brainscape - Incêndios",
+    "question": "Um incêndio num quadro eléctrico deve, preferencialmente, ser combatido com:\na) Baldes de areia\nb) Um extintor de espuma\nc) Um extintor de pó químico\nd) Água",
+    "answer": "c"
+  },
+  {
+    "type": "Brainscape - Incêndios",
+    "question": "Qual o agente extintor que não deve utilizar num incêndio num quadro eléctrico?",
+    "answer": "Água ou Espuma"
+  },
+  {
+    "type": "Brainscape - Balizagem",
+    "question": "Carecterize uma marca de Perigo Isolado quanto à cor, forma, marca e luz.",
+    "answer": "Cor: Preta com uma ou mais faixas longitudinais vermelhas\nForma: Cilíndrica\nMarcas: Duas esferas pretas sobrepostas\nLuz: Branco com dois relâmpagos"
+  },
+  {
+    "type": "Brainscape - Balizagem",
+    "question": "Para que servem as marcas especiais?",
+    "answer": "Servem para assinalar alvos como zonas de exercícios militares, zonas de despejos, áreas destinadas à navegação de recreio, estações de aquisição de dados oceânicos (ODAS), etc."
+  },
+  {
+    "type": "Brainscape - Balizagem",
+    "question": "O que é e para que serve uma marca RACON?",
+    "answer": "São as marcas com sinalização radar, que emitem um sinal, recebido pelo radar de uma embarcação, que permite uma melhor recepção de sinal e sua identificação."
+  },
+  {
+    "type": "Brainscape - Balizagem",
+    "question": "Identifique o significado da bóia:\n\n    Cor: Amarelo e preta - faixas horizontais\n    Marca: Dois cones pretos, o superior a apontar para baixo e o inferior a apontar para cima.",
+    "answer": "Marca cardeal Oeste, significa que deve-se navegar a Oeste da bóia. Ou seja, há perigo a Leste da bóia e águas limpas a Oeste."
+  },
+  {
+    "type": "Brainscape - Balizagem",
+    "question": "Identifique a marca: \nCor: Preta com uma ou mais faixas longitudinais vermelhas\nForma: Cilindrica\nMarcas: Duas esferas pretas sobrepostas\nLuz: Branco com dois relâmpagos",
+    "answer": "Perigo Isolado"
+  },
+  {
+    "type": "Brainscape - Balizagem",
+    "question": "Durante a noite avista a seguinte sinalização luminosa:\n- Luz de cor branca com um ritmo cintilante rápido agrupado, 3 cintilações todos os 5 segundos ou cintilante agrupado, 3 cintilações todos os 10 segundos. Identifique a sinalização.",
+    "answer": "Bóia Cardeal Este."
+  },
+  {
+    "type": "Brainscape - Balizagem",
+    "question": "As marcas água limpas têm as seguintes características:\nSignificado\nForma\nCor\nLuz",
+    "answer": "Significado: As marcas de águas limpas indicam uma zona em seu redor no qual não há quaisquer limitações relativas a fundos ou perigos.\nForma: Esférica, fuso, ou antena com alvo esférico.\nCor: Faixas verticais brancas e vermelhas\nLuz: Branco, Isofásica, ou Ocultações, Ou Relâmpagos longos 10seg."
+  },
+  {
+    "type": "Brainscape - Balizagem",
+    "question": "Como caracteriza o sistema de balizagem lateral nos portos em Portugal?",
+    "answer": "Bóias laterais de entrada (mar-terra) verdes ímpares e marca cónica a EB e vermelhas páres e cilíndricas a BB."
+  },
+  {
+    "type": "Brainscape - Balizagem",
+    "question": "Identifique a marca da bóia:\n\n    Cor: Amarelo e preta - faixas horizontais\n    Marca: Dois cones pretos, o superior a apontar para cima e o inferior a apontar para cima.",
+    "answer": "Marca cardeal Norte."
+  },
+  {
+    "type": "Brainscape - Balizagem",
+    "question": "Qual a cor das marcas especiais? Dê exemplos da sua utilização.",
+    "answer": "Côr: amarelas com uma ou mais faixas pretas horizontais.\nUtilizadas para a marcação de:\n- Sistemas de Aquisição de Dados Oceanográficos\n- Cabos ou tubagens submersas\n- Zonas de regatas\n- Zonas de exercícios militares\n- Marcas de separação de tráfego, onde a balizagem clássica do canal possa provocar confusão.\n- Marcas assinalando zonas para despejo."
+  },
+  {
+    "type": "Brainscape - Balizagem",
+    "question": "Caracterize uma bóia cardeal Norte. Situe as águas navegáveis e o perigo que assinada.",
+    "answer": "Côr: Amarela com uma ou mais listas pretas horizontais.\nForma: Antena ou fuso\nMarca: Duas marcas cónicas sobrepostas, ambas com um vértice a apontar para cima\nLuz: branca, Cintiliante ou cintilante rápida\nÁguas limpas: a Norte\nPerigo: a Sul"
+  },
+  {
+    "type": "Brainscape - Marés",
+    "question": "Classifique, baseada na forma característica da curva da maré, os tipos de marés.",
+    "answer": "Semidiurna, nos locais para os quais se verificam duas preia-mares e duas baixas-mares, em cada dia lunar.\n\nDiurna, nos locais para os quais só se verifica uma preia-mar e uma baixa-mar, por dia.\n\nMistas, se existe uma forte desigualdade diurna nas preia-mares, nas baixas-mares ou em ambos os fenómenos."
+  },
+  {
+    "type": "Brainscape - Marés",
+    "question": "A altura do plano da superfície da água ao fundo chama-se?",
+    "answer": "Sonda à hora."
+  },
+  {
+    "type": "Brainscape - Marés",
+    "question": "A altura de água do nível médio ao plano de superfície da água chama-se:",
+    "answer": "Elevação da maré."
+  },
+  {
+    "type": "Brainscape - Marés",
+    "question": "Navega numa zona onde a sonda reduzida é de Sr=10 metros, sabendo que o calado da sua embarcação é de 3 metros e que a sonda situada na quila marca 8 metros, qual é a altura de maré nesse momento?",
+    "answer": "Altura da maré = 8 + 3 - 10 = 1 metro"
+  },
+  {
+    "type": "Brainscape - Marés",
+    "question": "Navega numa zona onde a sonda reduzia é de Sr = 3 metros, sabendo que o calado da sua embarcação é de 1 metro e que a sonda colocada na quilha marca 4 metros, qual é a altura da maré nesse momento?",
+    "answer": "Altura da maré = 4 + 1 - 3 = 2 metros"
+  },
+  {
+    "type": "Brainscape - Marés",
+    "question": "Se o resguardo ao fundo for de 10 metros, e o calado 2 metros e a sonda reduzida 11 metros, qual é a altura da maré nesse momento e local?",
+    "answer": "Altura da maré = 10 + 2 - 11 = 1 metro"
+  },
+  {
+    "type": "Brainscape - Radar",
+    "question": "Nos equipamentos radares, qual a finalidade dos supressores e quais os cuidados a ter na sua utilização?",
+    "answer": "Destinam-se a atenuar os ecos causados pela ondulação e pela chuva. Os supressores devem ser utilizados com cuidado e moderação pois pode correr-se o risco de eliminar ecos de pequenos alvos."
+  },
+  {
+    "type": "Brainscape - Radar",
+    "question": "Para que serve num RADAR o comando de marca de distância variável?",
+    "answer": "Estabelece e regula o diâmetro do anel indicador da distância, mostrando simultaneamente a distância correspondente."
+  },
+  {
+    "type": "Brainscape - Radar",
+    "question": "Nos equipamentos radares, qual a finalidade do cursor de azimutes?",
+    "answer": "Alidade que se desloca diametralmente (radialmente) sobre o indicador para bissectar os alvos e determinar a sua macaçãr (ou azimute)"
+  },
+  {
+    "type": "Brainscape - Radar",
+    "question": "O alcance de um radar depende da potência de um equipamento e do intervalo entre impulsos. quais os factores que condicionam o seu alcance?",
+    "answer": "Curvatura da terra, refracção atmosférica, chuva, neve e nevoeiro."
+  },
+  {
+    "type": "Brainscape - Radar",
+    "question": "Nos equipamentos radares, a chuva e nuvens densas provocam geralmente:",
+    "answer": "Ecos falsos."
+  },
+  {
+    "type": "Brainscape - Radar",
+    "question": "Dê exemplos de bons e fracos ecos radar obtidos a partir da costa.",
+    "answer": "Bons - Casas, gasómetros, pontes, guindastes, faróis e chaminés de forma cilindrica, torres de antena, rochedos, arribas e vegetação.\n\nFracos - Terreno espraiado, areia, lodo, faróis e chaminés de forma cónica."
+  },
+  {
+    "type": "Brainscape - Radar",
+    "question": "Qual o princípio de funcionamento do GPS?",
+    "answer": "O princípio de funcionamento do GPS baseia-se no cálculo da distância a um transmissor medindo a duração do trajecto de um sinal rádio por aquele emitido continuamente."
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "Como se chama o instrumento que mede a velocidade do vento?",
+    "answer": "Anemómetro"
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "Considera-se que uma massa de ar está a uma pressão atmosférica média quando o seu valor for de:\na) 1013 milibares\nb) 1013º Farenheit\nc) 1023 milibares\nd) 1023º Farenheit",
+    "answer": "a)"
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "Assumindo que está no hemisfério Norte, no local assinalado com uma X o vento sopra de _______________\na",
+    "answer": "Norte.",
+    "image_src": "images/bs-vento1.png"
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "Dê exemplos de observações meteorológicas visuais.",
+    "answer": "Tipo de núvens\nVisibilidade\nPrecipitação\nOndulação"
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "Defina superfície frontal.",
+    "answer": "Superfície de contarct entre duas massas de ar de características diferentes, que não se misturam.\nA sua intercepção com o globo terrestre designa-se por Frente."
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "Uma massa de ar fria conduz a situações de instabilidade.\nJustifique.",
+    "answer": "Uma massa de ar é fria quando a sua temperatura é inferior à da superfície sobre a qual repousa. Assim as suas camadas inferiores aquecem em contacto com o solo, originando um grande gradiente térmico, o que conduz a instabilidade."
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "O que entende por “observação meteorológica”?",
+    "answer": "Observar: Ondulão (altura da vaga), Visibilidade, tipo de núvens\nSe possível aferir: Temperatura da água e do ar (termómetro), velocidade e direcção do vento (anemómetro/cata-vento), pressão atmosférica (barómetro)."
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "Em relação aos fenómenos que ocorrem à passagem de uma frente quente complete:\n\nDesloca-se de _________ para _________ no hemisfério Norte\nAr quente e húmido\naparecem primeiro núvens ________ e __________\ndepois aparecem núvens _______\na visibilidade piora durante a sua passagem\no vento é de _______ durante a passagem\ndepois da passagem\n- — a) o vento cai e depois roda para __________\n- — b) aumenta a visibilidade\n- — c) a chuva passa a regime de aguaceiros",
+    "answer": "Oeste para Leste\naltas e médias\nbaixas\nSW\n        — a) Oeste (Confirmar) (XF: Acho q sim?)\n        — b)\n        — c)"
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "Como se designa a linha ao longo da qual o valor da pressão atmosférica é mínima?\na) Vale\nb) Crista\nc) Colo\nd) Depressão secundária",
+    "answer": "a)"
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "Quais os métodos instrumentais de uma observação meteorológica?\n\nDê exemplos.",
+    "answer": "Medição de:\n\n    Temperatura com termómetro\n    Velocidade do vento com anemómetro\n    Pressão atmosférica com barómetro"
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "Uma superfície frontal fria é _______ inclinada que um quente, caracterizando-se por ser o ar _______ que avança em direção ao ___________.",
+    "answer": "mais\n\nfrio\n\nquente"
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "Descreva o aspecto das núvens Cúmulonimbus e o que prenunciam.",
+    "answer": "Os cumulos quando são de grande desenvolvimento vertical, muito altos e cinzentos escuros na base tomam o nome de cumulonimbus e prenunciam grandes tempestades."
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "No hemisfério Norte o ar circula no ____________ dos ponteiros do relógio em torno dos centros de altas pressões e no ______________ em torno dos centros de baixas pressões.",
+    "answer": "sentido\n\nsentido contrário"
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "Qual é o sistema de isóbaras fechadas, geralmente de forma aproximadamente circular, rodeando um centro de baixas pressões, cujos valores crescem do interior para a periferia.\na) Anticiclone\nb) Depressão\nc) Vale\nd) Crista",
+    "answer": "b"
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "Assumindo que está no hemisfério Norte, no local assinalado com um X o vento sopra de __________.\na",
+    "answer": "Sudoeste (SW)",
+    "image_src": "images/bs-vento2.png"
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "Indique que fenómenos, em termos de nebulosidade, precipitação e pressão ocorrem à passagem de uma frente quente.",
+    "answer": "Antes da passagem da frente quente teremos cirros Altos, que passa a cirros-estratos (normalmente entre 12 a 24 horas).\n\nOvento abranda e gira de Oeste, ou sudoeste para sul ou sudeste (a pressão começa a descer progressivamente).\n\nCom a aproximação da frente vamos ter alto estratos com nuvens mais baixas.\n\nA pressão desce mais rapidamente, e a chuva cai.\n\nApós a passagem da frente quento o vente roda para Oeste.\n\nA chuva deixa de cair, podendo haver abertas."
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "No hemisfério Norte um observador que exponha a cara ao vento tem as baixas pressões à sua __________.",
+    "answer": "Direita."
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "Assumindo que está no hemisfério Norte, no local assinalado com um X o vento sopra de ____________.\na",
+    "answer": "Sudoeste",
+    "image_src": "images/bs-vento3.png"
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "Descreva o aspecto de núvens cirros e o que prenunciam.",
+    "answer": "Os cirros são nuvens finas e delicadas, muito altas (as mais altas de todas, a cerca de 6 a 10 kms de altitude) e sempre formadas por cristais de gelo. Na maioria das vezes querem dizer que a uma distância de 400 a 60 kms se encontra uma frente quente. Esta frente trará possivelmente chuva fraca e um ligeiro aumento de temperatura."
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "No local assinalado com um Y o vento sopra com _______ intensidade do que no local assinalado com um X.\na",
+    "answer": "Menor",
+    "image_src": "images/bs-vento4.png"
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "Distinga Ciclone e Anticlicone.",
+    "answer": "Em meteorologia, o conjunto dos ventos em torno de um centro de baixas pressões toma a designação de sistema ciclónico de ventos e em volta de um centro de altas pressões chama-se anticiclone."
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "O texto abaixo corresponde à descrição de um tipo de núvens, indique o seu nome.\n\nGrandes massas de ar de nuvens de desenvolvimento vertical, que se elevam a grandes alturas. Dão aguaceiros violentos em forma de chuva ou neve, muitas vezes com trovoada. Quando perdem a sua força apresentam o topo em forma de bigorna.",
+    "answer": "Cúmulos-nimbos"
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "Indique os factores que condicionam a força do vento.",
+    "answer": "A força do vento não é função da pressão barométrica num lugar, mas sim da diferença de pressões entre dois lugares e da distância entre eles."
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "Junto à costa faz-se, frequentemente sentir, no fim da manhã, um vento vindo do mar, que atinge o máximo no princípio da tarde e desaparece ao anoitecer. Este vento é mais forte nos dias quentes e chama-se brisa marítima. Explique a sua existência.",
+    "answer": "A causa principal é a diferença de aquecimento entre as superfícies do mar e da terra sob o efeito da radição solar. A temperatura das camadas inferiores da atmosfera aquecem mais sobre a terra do que sobre o mar, gerando uma expansão do ar quente e a sua subida. Como consequência gera-se uma diferença de pressões, tendendo a ar a deslcoar-se da maior para a menor, ou seja de terra para o mar."
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "A pressão varia na razão inversa da temperatura. Justifique.",
+    "answer": "Quando a temperatura aumenta a pressão diminui, pois ao aumentar a temperatura o ar aquecido expande-se, tornando-se menos denso, diminuindo assim a pressão. Por sua vez quando a temperatura diminui a pressão aumenta, pois ao diminuir a temperatura o ar arrefecido comprime-se tornando-se mais denso, aumento assim a pressão."
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "Defina ponto de orvalho.",
+    "answer": "Ponto de orvalho designa a temperatura à qual o vapor de água presente no ar ambiente condensa, passando ao estado líquido na forma de pequenas gotas."
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "No local assinalado com um X o vento sopra com _________ intensidade do que no local assinalado com um Y.\na",
+    "answer": "Maior",
+    "image_src": "images/bs-vento5.png"
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "O que entende por Isóbaras?",
+    "answer": "São linhas que definem o lugar geométrico dos pontos da superfície que têm a mesma pressão atmosférica. São em geral linhas paralelas, mais ou menos concêntricas em volta de um centro de maior ou meno pressão."
+  },
+  {
+    "type": "Brainscape - Meteorologia",
+    "question": "O que relaciona a escala de BEAUFORT?",
+    "answer": "A força do vento (velocidade) e os efeitos no mar."
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "Apresente alguns requisitos técnicos da instalação radiotelefónica.",
+    "answer": "Deverá estar instalada o mais perto possível do local de governo e acessível para operação, em lugar ventilado, protegido do tempo, da água salgada e da humidade. A alimentação deverá ser independente. A bateria deverá estar instalada na parte elevada da embarcação. As antenas deverão ser instaladas em posição vertical tão alto quando possível e deverá haver uma lâmpada que ilumine os seus comandos. O indicativo de chamada da estação deve estar fixo junto do equipamento."
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "Qual a função do comando de limitador de ruídos do radiotelefone do VHF?",
+    "answer": "Em inglês SQUELCH, nas comunicações normais permite ouvir sem ruídos. Deverá ser regulado de modo que passando pela posição de ruído fique no seu limite caso contrário poderá cortar a recepção, sobretudo de sinais mais fracos."
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "Quais as vantagens de usar a potência mínima do emissor do seu radiotelefone?",
+    "answer": "Se a estação com quem pretende falar estiver perto, esta ouvi-lo-á melhor; A emissão incomoda menos e não interfere as comunicações de outras embarcações; É entendida por menos embarcações; Poupa mais o equipamento e fonte de alimentação."
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "Ao chamar uma estação costeira ou um navio deve dizer o seu indicativo de chamada no máximo:",
+    "answer": "três vezes"
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "De acordo com a simulação sugerida escreva a transmissão adequada. Efectue uma comunicação de socorro tendo em conta a seguinte situação: Embarcação: Golfinho Posição: 20 milhas a Oeste Farol do Cabo Espichel Natureza do acidente: Homem ar mar Ajuda pretendida: Auxílio imediato",
+    "answer": "Mêdê Mêdê Mêdê Aqui Golfinho Golfinho Golfinho Mêde Aqui Golfinho Posição a 20 milhas a oeste do farol do cabo espichel Tenho homem ao mar Necessito de auxílio imediato Escuto"
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "De acordo com a simulação sugerida escreva a transmissão adequada. De acordo com a sua transmissão simule a resposta da estação que ouviu o seu pedido, a ER POLAR, que informa que se dirige para a sua posição de imediato.",
+    "answer": "Mêdê Golfinho Golfinho Golfinho Aqui Polar Polar Polar Recebido Medê Sigo para a sua posição imediatamente Escuto"
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "Efectue uma comunicação, tendo em conta a seguinte situação: Nome da embarcação: Gala Posição: 30 milhas a Oeste do cabo Mondego Natureza do acidente: incêndio Ajuda pretendida: auxílio imediato",
+    "answer": "Mêdê Medê Medê Aqui Gala Gala Gala Mêdê Aqui Gala Posição a 30 milhas Oeste do Cabo Mondego Tenho incêndio a bordo Necessito de auxílio imediato Escuto"
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "Simule a resposta à comunicação abaixo, recebida pela ER Figueira, que informa que se dirige para a sua posição de imediato.",
+    "answer": "Mêdê Gala Gala Gala Aqui Figueira Figueira Figueira Recebido Medê Sigo para sua posição imediatamente Escuto"
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "A expressão de serviço RECEBIDO, significa:",
+    "answer": "Recebi a sua última transmissão satisfatoriamente."
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "Em todas as comunicações, para identificar a embarcação, deverá dizer sempre:",
+    "answer": "O seu indicativo de chamada ou o seu nome."
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "Qual a expressão de serviço utilizada para mudar para a frequência ou canal que se segue … ?",
+    "answer": "Passe a …"
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "Diga o significa da seguinte expressão, e soletre a palavra. C S M T",
+    "answer": "Indicativo de chamada de navio de bandeira portuguesa. C = Charlie; S = Sierra; M = Mike; T = Tango"
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "Efectue uma comunicação, tendo em conta a seguinte situação: Nome da embarcação: Matosinhos Posição: 10 milhas a Oeste do Farol de Leça Natureza do acidente: Doença Ajuda pretendida: necessito de assistência médica",
+    "answer": "Panepane Panepane Panepane Aqui Matosinhos Panepane Panepane Aqui Matosinhos Posição 10 milhas a Oeste do Farol de Leça Necessito assistência médica Escuto"
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "Efectue uma comunicação, tendo em conta a seguinte situação: Nome da embarcação: São Julião Posição: 10 milhas a Oeste do Farol do Cabo Mondego Natureza do acidente: Doença Ajuda pretendida: necessito de assistência médica",
+    "answer": "Panepane Panepane Panepane Aqui São Julião Panepane Aqui São Julião Posição 10 milhas a Oeste do Farol do Cabo Mondego Necessito assistência médica Escuto"
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "O que significa uma comunicação de segurança, qual a palavra que a identifica e dê exemplos.",
+    "answer": "A comunicação de segurança é usada quando uma estação vai transmitir uma mensagem contendo um aviso vital ou importante à navegação ou um aviso meteorológico importante. O sinal de segurança é constituído pela palavra Sêcuritê"
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "Qual a finalidade da função Dupla Escuta em inglês Dual Watch?",
+    "answer": "Permite seleccionar e recepcionar 2 canais em simultâneo."
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "Antes proceder a uma chamada radiotelefónica, deve verificar se:",
+    "answer": "Não está em curso um comunicação de socorro, urgência ou segurança."
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "Quais as duas partes que compõem normalmente uma radiocomunicação?",
+    "answer": "As duas partes que compõem normalmente um radiocomunicação são a CHAMADA e o TRABALHO."
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "Como são classificados quanto às prioridades os avisos à navegação?",
+    "answer": "Os avisos à navegação são classificados quanto à prioridade em: VITAL de precedência imediata IMPORTANTE de precedência urgente HORÁRIO ou ROTINA de precedência de rotina"
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "Qual a importância das mensagens de avisos aos navegantes? Dê exemplos.",
+    "answer": "Os avisos aos navegantes são mensagens de interesse para a segurança da navegação. Exemplo: alteração, numa carta de navegação, sistema de balizagem, regras de navegação locais, etc."
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "Quais os cuidados a ter antes de efectuar uma radicomunicação?",
+    "answer": "Verificar quais os canais de ESCUTA e de TRABALHO da estação com que pretende comunicar. PREPARAR a MENSAGEM para fazê-lo de forma CLARA e CURTA Utilizar sempre que possível a potência reduzida Se a estação com que deseja comunicar tiver escuta no canal 16 e num outro canal, a chamada deve ser feita neste Se a chamada tiver de ser efectuada no canal 16 deverá assegurar-se que não está em curso uma comunicação de socorro e procurará emitir somente o indispensável para saber qual o canal a que vai passar a trabalhar. ESCUTAR, antes, no canal em que vai emitir, para evitar prejudicar qualquer comunicação em curso."
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "O que significa a expressão Prudance?",
+    "answer": "Quando no canal que está a ser utilizado para tráfego de socorro já não é necessário silêncio total."
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "Qual a função do canal 16 de VHF?",
+    "answer": "Socorro, Urgência, Segurança e chamada."
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "O que significa a expressão “Silence Mêdê”?",
+    "answer": "Imposição de silêncio a qualquer estação que na área do sinistro esteja a provocar interferência e portanto a prejudicar as comunicações de socorro. Esta imposição é feita pela embarcação que está em perigo ou pela estação que está a coordenar as operações de socorro."
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "Qual o significado da bandeira Alfa do CIS?",
+    "answer": "Tenho mergulhador na água. Mantenha-se afastado de mim."
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "A expressão de serviço SILANCE DETRESSE significa:",
+    "answer": "Silêncio, está em curso tráfego de socorro."
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "Sempre que ouvir as palavras Mêdê, Panepane ou Sêcuritê, deverá:",
+    "answer": "Acabar todas as transmissões e passar à escuta para prestar ajuda se necessário."
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "Os telegramas ou mensagens pedindo conselhos médicos devem ser precedidos da expressão de serviço:",
+    "answer": "Panepane Panepane Panepane (a confirmar!) (XF: concordo)"
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "Como se assinala por recurso a bandeira do CIS (Código Internacional de Sinais) situações de estar em perigo e necessitando de assistência imediata?",
+    "answer": "Bandeiras November e Charlie na vertical."
+  },
+  {
+    "type": "Brainscape - Comunicações",
+    "question": "A bandeira V do CIS significa:",
+    "answer": "Preciso de assistência."
+  },
+  {
+    "type": "Brainscape - Estabilidade",
+    "question": "O que entende por estabilidade do navio.",
+    "answer": "É a propriedade que permite ao navio de retomar à sua posição normal de equilíbrio uma vez que cesse a causa que dela o fez desviar."
+  },
+  {
+    "type": "Brainscape - Estabilidade",
+    "question": "Numa embarcação em equilíbrio: O peso é _______ à impulsão.",
+    "answer": "Igual"
+  },
+  {
+    "type": "Brainscape - Estabilidade",
+    "question": "Ao navegar a motor, o combustível nos tanques de fundo de uma embarcação diminui e o centro de gravidade desloca-se para _________.",
+    "answer": "Cima"
+  },
+  {
+    "type": "Brainscape - Estabilidade",
+    "question": "Quais as consequências do embarque de pesos a bordo da embarcação acima do centro de gravidade.",
+    "answer": "O embarque de pesos acima do centro de gravidade produz a elevação do mesmo e a consequente redução de estabilidade."
+  },
+  {
+    "type": "Brainscape - Estabilidade",
+    "question": "O que entende por caimento da embarcação?",
+    "answer": "É a diferença de imersão da querena a vante e a ré."
+  },
+  {
+    "type": "Brainscape - Estabilidade",
+    "question": "Ao embarcar combustível nos tanques de fundo de um embarcação, o Centro de Gravidade dessa embarcação desloca-se para __________.",
+    "answer": "Baixo"
+  },
+  {
+    "type": "Brainscape - Estabilidade",
+    "question": "A tendência que uma embarcação possui em conservar a sua posição vertical e voltar a essa posição ao terminar a força que a fez inclinar designa-se por:",
+    "answer": "Estabilidade"
+  },
+  {
+    "type": "Brainscape - Estabilidade",
+    "question": "Quando removemos algum peso para fora da embarcação o Centro de Gravidade dessa embarcação desloca-se para:",
+    "answer": "Para cima, caso o peso se encontrasse abaixo do CG - Para baixo, caso o peso se encontrasse acima do CG"
+  },
+  {
+    "type": "Brainscape - Estabilidade",
+    "question": "Numa embarcação, quando o Centro de Gravidade coincide com o Centro de Querena, diz-se que:",
+    "answer": "a) o equilíbrio é indiferente"
+  },
+  {
+    "type": "Brainscape - Estabilidade",
+    "question": "Ao embarcar um peso no convés de uma embarcação, o Centro de Gravidade dessa embarcação desloca-se para _________",
+    "answer": "Cima"
+  },
+  {
+    "type": "Brainscape - Estabilidade",
+    "question": "Um corpo, se desviado da posição de equilíbrio por efeitos das forças que o actuam, tende a regressar à posição de equilíbrio, diz-se que está em ______________.",
+    "answer": "Equilíbrio estável."
+  },
+  {
+    "type": "Brainscape - Estabilidade",
+    "question": "Ao embarcar passageiros numa embarcação, o Centro de Gravidade dessa embarcação desloca-se para ______________",
+    "answer": "Baixo. (Confirmar) (XF: a menos que os passageiros estejam em uma área elevada da embarcação, caso em que pode subir.)"
+  },
+  {
+    "type": "Brainscape - Faróis",
+    "question": "Dê 5 exemplos de ritmos de luzes de ajudas à navegação.",
+    "answer": "1 - fixa\n2 - ocultações\n3 - isófasica\n4 - relâmpagos\n5 - cintilantes"
+  },
+  {
+    "type": "Brainscape - Faróis",
+    "question": "Identifique e justifique a característica da seguinte luz:",
+    "answer": "Ocultações simples - luz em que a duraçao total da emissao luminosa em cada periodo é maior que a duraçao total de obscuridade e em que os internavlos de obscuridade (ocultações) têm habitualmente a mesma duração.",
+    "image_src": "images/bs-farol1.png"
+  },
+  {
+    "type": "Brainscape - Faróis",
+    "question": "Num farol, a característica luminosa em que a duraçao da luz é menor que a duração da obscuridade, designa-se por:",
+    "answer": "relâmpagos"
+  },
+  {
+    "type": "Brainscape - Faróis",
+    "question": "Indique e justifique a característica da seguinte luz:",
+    "answer": "isofásica, luz em que a duração luminosa e a duração da obscuridade são nitidamente iguais",
+    "image_src": "images/bs-farol2.png"
+  },
+  {
+    "type": "Brainscape - Faróis",
+    "question": "Indique e justifique a característica da seguinte luz:",
+    "answer": "Relâmpagos agrupados, luz de relâmpagos em que os grupos, de um determinado numero de relampagos, se repetem regularmente.",
+    "image_src": "images/bs-farol3.png"
+  },
+  {
+    "type": "Brainscape - Faróis",
+    "question": "Em relação às características luminosas dos faróis, uma luz contínua e de intensidade constante, designa-se por:",
+    "answer": "Luz fixa"
+  },
+  {
+    "type": "Brainscape - Faróis",
+    "question": "Num farol se a luz é contínua e de intensidade constante designa-se por:",
+    "answer": "Fixa"
+  },
+  {
+    "type": "Brainscape - Faróis",
+    "question": "De dia a identificação de um farol faz-se por:",
+    "answer": "forma e cor da torre"
+  },
+  {
+    "type": "Brainscape - Faróis",
+    "question": "Descodifique:",
+    "answer": "Ritmo da luz - relâmpagos\nCor - verde\nPeríodo - 5 segundos\nAltitude do plano focal - 10m\nalcance nominal 9 milhas"
+  },
+  {
+    "type": "Brainscape - Faróis",
+    "question": "Descodifique:",
+    "answer": "Ritmo da luz - isofásica\nCor - vermelha\nPeríodo - 6 segundos\nAltitude do plano focal - 22 metros\nalcance nominal: 8 milhas"
+  },
+  {
+    "type": "Brainscape - Faróis",
+    "question": "Descodifique:",
+    "answer": "Ritmo da luz - 2 ocultações\nCor - branca\nPeríodo - 2 segundos\nAltitude do plano focal - 34 metros\nalcance nominal 18 milhas"
+  },
+  {
+    "type": "Brainscape - Faróis",
+    "question": "Descodifique as características da Bóia ODAS CSA82 Rl (5) Am 20s.",
+    "answer": "Boia de ODAS - Sistema de aquisição de dados oceanográficos\nCSA82 - designação da bóia - Charlie Sierra Alfa 82\nRl (5) - ritmo da luz - 5 relâmpagos agrupados\nAm - cor amarela\n20s - período da luz : 20 segundos"
+  },
+  {
+    "type": "Brainscape - Faróis",
+    "question": "Num farol, a distância vertical do topo da estrutura ao solo, designa-se por:",
+    "answer": "Altura de um farol"
+  },
+  {
+    "type": "Brainscape - Faróis",
+    "question": "Descodifique as características do Farol do Cabo Mondego Fl. 5s. 97m 28M Horn 30s",
+    "answer": "Fl - Luz com um ritmo de relâmpago\nCor branca\nperíodo da luz de 5 segundos\nAltitude do plano focal de 97 metros\nSom de nevoeiro tipo Trompa\nPeríodo do som de 30 segundos"
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "O que entende por círculo máximo?",
+    "answer": "É a linha que resulta da intersecção da superfície da Terra com um plano que contenha o centro da terra."
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "Entre que valores varia a altura verdadeira de um astro?",
+    "answer": "Varia entre zero (astro no horizonte) e 90º (astro no zénite)."
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "Identifique e defina as coordenadas horárias de um astro.",
+    "answer": "Ângulo horário - Corresponde ao arco do equador celeste, entre o meridiano celeste e o círculo horário do astro medido para Oeste de 0º a 360º.\nDesigna-se (hl) quando a origem é o meridiano do lugar\nDesigna-se (hg) quando a origem é o meridiano de Greenwhich\n\nÂngulo no polo - 0 a 180º para E ou W"
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "Identifique e defina as coordenadas horizontais de um astro.",
+    "answer": "Altura - arco da vertical do astro entre o horizonte e o astro (0 - 90º)\n\nCoordenadas horizontais são um sistema que se baseia na observação directa de um astro em qualquer ponto do globo. Usa como referência o horizonte e o Norte Verdadeiro. As coordenadas são:\nAltura (a) - ângulo (arco do círculo máximo) medido na vertical entre o horizonte e o astro. Varia entre 0º e 90º. A diferença da altura para 90º designa-se por distância zenital e representa o ângulo entre o astro e o zénite.\n\nAzimute (Z) - ângulo (arco do círculo máximo) entre o Norte Verdadeiro e o astro (medido no horizonte) e varia entre 0 e 360º."
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "O que entende por hora média de um lugar?",
+    "answer": "É o arco de equador compreendido entre o meridiano inferior do lugar e o sol médio, contado no sentido de Leste para Oeste de 0 a 24 horas."
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "Qual o sentido real do movimento de rotação da Terra?",
+    "answer": "Sentido directo, contrário ao movimento dos ponteiros do relógio."
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "O que entende por crepúsculos?",
+    "answer": "São as alturas do dia em que são visíveis em simultâneo os astros (estrelas e planetas) e o horizonte, permitindo assim ler a altura dos astros.\nHá dois crepúsculos por dia:\nMatutino - perto do nascer do sol\nVespertino - perto do ocaso do sol"
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "Qual a hora de bordo, durante as estadias das embarcações nos portos?",
+    "answer": "Deve ser a hora oficial. Standard Time."
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "Os navios no mar regulam-se pelo hora legal (hora do fuso). Os relógios são portanto alterados de uma hora sempre que se passa de um fuso para o outro. Diga como se procede quando navega para Oeste.",
+    "answer": "Diminui-se uma hora. Atrasa-se uma hora os relógios sempre que se muda de fuso."
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "Os navios no mar regulam-se pela hora legal (hora do fuso). Os relógios são portanto alterados de uma hora sempre que se passa de um fuso para o outro. Diga como se procede quando navega para Este.",
+    "answer": "Soma-se uma hora. Os relógios são adiantados um hora sempre que se muda de fuso."
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "Desenhe uma esfera e represente o movimento diurno de um astro nas seguintes condições: astro no hemisfério do lugar (latitude e declinação do mesmo nome), distância polar maior que a latitude, e declinação menor que a latitude.",
+    "answer": "",
+    "image_src": "images/bs-astronomia1.png"
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "Desenhe uma esfera e represente o movimento diurno de um astro nas seguintes condições: astro no equador (declinação = 0).",
+    "answer": "",
+    "image_src": "images/bs-astronomia2.png"
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "Quais são os lados de um triângulo de posição? Faça o desenho respectivo.",
+    "answer": "",
+    "image_src": "images/bs-astronomia3.png"
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "Quais são os lados de um triângulo de posição?",
+    "answer": "Co-latitude, Distância Zenital, Distância Polar"
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "Quais são os ângulos de um triângulo de posição? Faça o desenho respectivo.",
+    "answer": "",
+    "image_src": "images/bs-astronomia4.png"
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "O que entende por hora legal?",
+    "answer": "É a hora que vigora dentro de um fuso, que corresponde à hora do meridiano central do fuso.\nPor razões de conveniência, dividiu-se a Terra em 24 fusos de 15º cada um, sendo o Fuso 0 centrado no meridiano de Greenwhich, os fusos positivos para Oeste e negativos para Leste."
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "Diga o que entende por Ponto Vernal e a sua importância para a navegação.",
+    "answer": "Ponto Vernal, ou Equinócio de Março, é o ponto do equador celeste ocupado pelo sol quando passo do hemisfério sul para o hemisfério norte.\nÉ o ponto a partir do qual são medidos os ângulos siderais dos astros.\n\nNota:\nÉ o ponto onde o sol no seu movimento aparente cruza o equador celeste no equinócio de Março."
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "Quais os processos para a escolha dos astros a observar e a determinação aproximada das suas alturas e azimutes?",
+    "answer": "Calcular o crepúsculo para determinar o intervalo em que são visíveis os astros em simultâneo com o horizonte.\nCalcular o ângulo horário do ponto vernal para que no Star Finder ou nas SRTAN se possa ler os astros que são visíveis, assim como os azimutes e alturas."
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "Qual é a diferença máxima entre a hora legal e a hora média de um lugar? Justifique.",
+    "answer": "A hora legal corresponde à hora do meridiano central do fuso, logo a diferença máxima é de 30 minutos."
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "Diga como procede quando cortar o meridiano de 180º (linha de mudança de data)",
+    "answer": "Se navegar em direcção a Leste repete-se um dia.\n\nSe navegar em direcção a Oeste perde-se um dia."
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "À intersecção da vertical do lugar com a esfera celeste chama-se?",
+    "answer": "Zénite"
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "O que entende por circunferência de altura? E curva de altura?",
+    "answer": "É o lugar geométrico dos pontos da superfície terrestre que, em determinado momento, observam um astro segundo a mesma altura.\nCurva de altura - é a projecção de uma circunferência de altura na carta de Mercator."
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "Defina Latitude Crescida",
+    "answer": "Latitude Crescida (lambda) é o número de minutos de Longitude contidos no segmento de meridiano correspondente, entre um paralelo e o equador (fornecida pela Tabela 2 das Tábuas Náuticas).\n\nNota: diferença de latitudes crescidas entre dois ponto (delta lambda) é o número de minutos de longitude contidos no segmento de meridiano compreendido entre os paralelos desses pontos."
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "O arco do meridiano do astro compreendido entre o polo elevador e o astro, limitado entre 0 e 180º e medido no polo para o astro, chama-se?",
+    "answer": "Distância polar."
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "A distância polar é igual a ….. ?",
+    "answer": "90º - Declinação, para declinação com o mesmo nome da latitude\n90º + Declinação, para declinação com nome contrário ao da latitude"
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "No sextante, em relação ao plano do instrumento, o espelho grande deve ser …. ?",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "O erro motivado pelo facto do astro não ser observado a partir da superfície do mar chama-se ….. ?",
+    "answer": "Depressão do horizonte"
+  },
+  {
+    "type": "Brainscape - Astronomia",
+    "question": "No Almanaque Náutico, nos astros sem variação diária significativa, as coordenadas apresentadas são … ?",
+    "answer": "Ângulo sideral e declinação (estrelas)"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Coloque por ordem decrescente de rigor as Linhas de Posição em navegação costeira.",
+    "answer": "enfiamento, alinhamento, segmento capaz, azimute, ângulo vertical de sextante, batimétrica"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "A técnica de navegação costeira utilizada quando se tem apenas um ponto conspícuo à vista, e se recorre ao uso de duas linhas de posição espaçadas de um período de tempo bem definido ao mesmo ponto, conhecida que seja a Proa Verdadeira, designa-se por:",
+    "answer": "Marca, navega e torna a marcar."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Para se converter o azimute da agulha em azimute magnético precisamos de conhecer:",
+    "answer": "O desvio da agulha."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "A distância máxima a que um farol pode ser avistado, em função da curvatura da Terra, depende apenas da altura do observador e da altitude do farol designa-se por:",
+    "answer": "Alcance geográfico (do farol)."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "O ângulo entre o Meridiano Verdadeiro e o Meridiano da Agulha chama-se:",
+    "answer": "Variação."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "A linha que une dois pontos notáveis em terra designa-se por:",
+    "answer": "Enfiamento ou Alinhamento."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Se apenas dispomos de dois azimutes para determinar a nossa posição, é desejável que o ângulo entre eles seja:",
+    "answer": "O mais próximo possível de 90º."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "O que significa Alcance Nominal?",
+    "answer": "O Alcance Nominal é o alcance luminoso de uma luz, verificado numa atmosfera homogénea com visibilidade meteorológica de 10 milhas, considerado como valor médio e expresso em Milhas (M). O Alcance Nominal das luzes, faróis e bóias são indicados nas cartas náuticas."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Indique duas LDP obtidas em navegação costeira - uma mais e outra menos rigorosa que um azimute.",
+    "answer": "Mais rigorosa: enfiamento ou alinhamento, segmento capaz. Menos rigorosa: ângulo vertical de sextante, batimétrica."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Descreva como desenha a LDP correspondente a um segmento capaz.",
+    "answer": "Unir 2 pontos conspícuos, traçar a mediatriz, marcar o ângulo interno (90º - alpha), traçar um arco de circunferência (para o mar) entre os dois pontos conspícuos, centrado na intersecção da mediatriz com o ângulo marcado."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Quais os tipos de ritmo de luz de um farol?",
+    "answer": "As luzes podem ser fixas ou ritmadas. As ritmadas podem ser: 1 - relâmpagos, 2 - ocultações, 3 - isofásica, 4 - cintilantes, 5 - cintilantes rápidas, 6 - cintilantes ultra rápida. Podem ainda ser de código Morse (letras) ou alternadas."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Coloque por ordem crescente de rigor as posições em navegação costeira.",
+    "answer": "Ponto carteado, Ponto estimado, Ponto marcado."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Explique como determina o Alcance Geográfico de um farol.",
+    "answer": "O alcance geográfico de um farol é a distância máxima a que esse farol pode ser avistado, em função da curvatura da Terra, da elevação do observador e da altitude do farol. Este pode ser determinado consultando a tabela respectiva em função da elevação do olho do observador e da altitude do plano focal."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Numa carta náutica a linha que une profundidades com o mesmo valor designa-se por:",
+    "answer": "Isobatimétrica"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "O que significa marcação relativa?",
+    "answer": "É o ângulo formado entre a linha de proa-popa e o alvo, para BB ou EB, medido entre 0º a 180º."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "o que significa uma marcação ao través?",
+    "answer": "Significa que o alvo marcado faz um ângulo de 90º com a linha proa-popa da embarcação"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "O que significa Alcance Luminoso?",
+    "answer": "é a maior distancia a que uma luz pode ser vista unicamente em função da sua intensidade luminosa, da visibilidade meteorológica e da acuidade visual do observador."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Defina LDP",
+    "answer": "Linha de Posição é o conjunto de posições possíveis de uma embarcação, marcadas numa carta náutica e correspondentes a uma leitura com um instrumento de navegação, relativamente a uma referência terrestre, num dado instante."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "A posição da embarcação obtida tendo em conta apenas a proa a que se governa e a velocidade de superfície designa-se por…",
+    "answer": "Posição carteada"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "A determinação da posição do navio pela consideração das distâncias percorridas e dos rumos a que se navegou designa-se por:",
+    "answer": "a) carteação"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Ao cálculo de uma posição futura, entrando não só com os elementos usados para o cálculo da posição carteada, mas também com os efeitos externos sobre a embarcação, chama-se…",
+    "answer": "Navegação estimada"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "O ângulo entre a proa verdadeira e o rumo chama-se...",
+    "answer": "d - abatimento"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "O ângulo formado entre a direcção proa-popa da embarcação e a direçao para um qualquer objecto exterior chama-se…",
+    "answer": "marcaçao relativa"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "a bordo de uma embarcaçao, para se obter uma distância, pode-se utilizar…",
+    "answer": "radar; sextante"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Na navegaçao dentro de estuários e nas barras utilizamos, de preferencia cartas de _____ escala.",
+    "answer": "GRANDE"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Na navegação costeira:",
+    "answer": "a) deve utilizar cartas de maior escla em relação às cartas utilizadas em navegação oceânica"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "O seu objectivo é atracar num porto de recreio na costa portuguesa. Indique alguns cuidados que deve ter na preparação da aproximaçao ao destino:",
+    "answer": "reconhecer enfiamentos existentes, identificar boias, farois, conhecenças e perigos existentes, calcular a altura da maré face ao ETA, Investigar a existencia de correntes"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Defina azimute de resguardo.",
+    "answer": "é um azimute que fornece uma linha limite, além da qual é perigoso navegar."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Uma linha de posição limite, por exemplo um azimute, além do qual é perigoso navegar pela existência de perigos, designa-se por:",
+    "answer": "Resguardo ou Azimute de resguardo"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "A navegação que se faz à vista da costa e que utiliza como referência as conhecenças apresentadas na carta designa-se por:",
+    "answer": "Navegação costeira."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Numa carta de Mercator os paralelos ____________ a distância entre si à medida que se afastam do Equador para os pólos.",
+    "answer": "AUMENTAM"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Uma carta náutica oficial representando uma baía, por exemplo a baía de Cascais, é indicada para praticar navegação:",
+    "answer": "Em águas restritas."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "O ângulo formado entre o Meridiano da Agulha e a linha que une o observador ao objecto, designa-se por:",
+    "answer": "Azimute da agulha"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Para se converter o azimute magnético em azimute verdadeiro precisamos de conhecer:",
+    "answer": "A declinação"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "O ângulo compreendido entre o Meridiano Magnético e o Meridiano da Agulha chama-se:",
+    "answer": "Desvio da agulha"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "O ângulo formado entre o meridiano Magnético e a linha que une o observador ao objecto, chama-se:",
+    "answer": "Azimute magnético"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "O ângulo formado entre o meridiano de referência e a linha proa-popa do navio, chama-se:",
+    "answer": "b) Proa"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Quando utilizamos um aparelho de marcar, é adequado tirar direcções pela seguinte ordem:",
+    "answer": "a) Primeiro as que estão pela proa e depois as que estão pelo través"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Na navegação em águas restritas o mais importante é:",
+    "answer": "d) garantir que a embarcação está em segurança"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Estima é o processo de prever a posição futura do navio a partir de uma posição actual, entrando em linha de conta com a ____________________ e _________________________.",
+    "answer": "proa verdadeira e a velocidade de superfície."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "A utilização de técnicas e métodos de navegação especialmente adaptado à situação de uma embarcação a navegar em espaços apertados, por forma a permitir controlar os seus movimentos e a garantir os resguardos de segurança designa-se por:",
+    "answer": "b) Navegação em águas restritas"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Quais os vectores de uma derrota estimada?",
+    "answer": "1-Vector superfície (Proa / Velocidade de superfície); 2-Vector corrente (Direcção / Intensidade); 3-Vector verdadeiro (Rumo / Velocidade verdadeira)."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Nas características luminosas dos faróis a designação Oc (ocultações), significa:",
+    "answer": "Que a duração de emissão de luz é superior à duração da obscuridade"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Além da carta náutica, a publicação oficial onde é possível identificar as características luminosas de um farol designa-se por:",
+    "answer": "Lista de faróis"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "A máxima distância a que se vê de noite a luz do farol, em função da sua intensidade luminosa e condições meteorológicas, chama-se:",
+    "answer": "c) Alcance luminoso"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "O que designa por “Visibilidade meteorológica” é:",
+    "answer": "A maior distância a que um objecto negro de dimensões adequadas pode ser visto e reconhecido contra o horizonte do céu. Característica da atmosfera"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "O que significa o Alcance geográfico de um Farol?",
+    "answer": "É a distância máxima a que um farol pode ser avistado, em função da curvatura da terra, da elevação do observador e da altitude do farol"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "O alcance das luzes, faróis e bóias, indicados nas cartas náuticas designa-se por:",
+    "answer": "Alcance nominal"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "O alcance da luz do farol em relação à potência, sistema óptico e transparência atmosférica, designa-se por:",
+    "answer": "Alcance luminoso"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Uma LDP do tipo Segmento Capaz é obtida utilizando:",
+    "answer": "b) Um sextante"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Ao utilizarmos um sextante para medir os ângulos formados entre três pontos conspícuos, obtemos uma linha de posição do tipo:",
+    "answer": "Segmento capaz"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "O que entende por navegação costeira?",
+    "answer": "É a navegação que se faz à vista de costa e que utiliza como referência as conhecenças representadas na carta É aquela que é praticada entre as 40 e as 3 milhas, permitindo a obtenção da posição por linhas de posição usando o método de Geonavegação."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Distinga entre milha náutica e nó.",
+    "answer": "Milha é o comprimento de arco de círculo máximo que subtende um ângulo de minuto no centro da Terra; Nó é a velocidade de um navio que percorre uma milha numa hora"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Quais os tipos de linhas de posição que pode obter em geonavegação.",
+    "answer": "Direcções: Enfiamentos, alinhamentos e azimutes Circunferências: Ângulos horizontais, verticais e distâncias radar Isobatimétricas: Sondas"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Como se representa um ponto, marcado, estimado e carteado numa carta de navegação.",
+    "answer": "Marcado: Quadrado Estimado: Triângulo Carteado: Cruz"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Indique duas LDP obtidas em navegação costeira, uma mais e outra menos rigorosa que um segmento capaz.",
+    "answer": "Mais rigorosa: enfiamento ou alinhamento. Menos rigorosa: azimute, ângulo vertical de sextante ou batimétria."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Caracterize o tipo de navegação costeira.",
+    "answer": "Aconselha a maiores cuidados na condução da navegação do que a do tipo oceânico, cuidados que se podem exprimir em maior frequência na obtenção de posições e maior rigor dessas posições. De uma forma geral é praticada entre as 40 e as 3 milhas. Admite-se normalmente, uma duração de 2 a 5 minutos na obtenção de um ponto e uma frequência na determinação da posição entre 5 a 20 minutos."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "O alcance das luzes, faróis e bóias, indicados nas cartas náuticas designa-se por:",
+    "answer": "Alcance nominal"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Como se chama o método de navegação em que a LDP é tributária da informação colhida ou recebida do globo terrestre (terra ou fundo do mar)?",
+    "answer": "Geonavegação"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "A navegação que se faz à vista de costa e que utiliza como referência as conhecenças representadas na carta designa-se por:",
+    "answer": "Navegação costeira"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "A posição da embarcação obtida tendo em conta apenas a proa a que se governa e a velocidade de superfície designa-se por:",
+    "answer": "Posição Carteada"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Quais os elementos que compõem a assinatura dum farol?",
+    "answer": "A assinatura de um farol pode incluir diversos elementos, sendo os mais comuns: - Característica ou Tipo da luz - Cor da luz, Período - Altitude plano focal - Alcance nominal - Sinal acústico e Período do sinal acústico"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Descreva a luz do seguinte farol: Oc Vm 3s 31m 21M",
+    "answer": "Característica da luz: Ocultações Cor da luz: Vermelho Período: Três segundos Altitude plano focal: Trinta e um metros Alcance nominal: Vinte e uma milhas náuticas"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Descreva a luz do seguinte farol: Rl Vd 5s 28m 9M Tr. Mo (B) 30s",
+    "answer": "Característica da luz: Relâmpagos Cor da luz: Verde Período: Cinco segundos Altitude plano focal: Vinte oito metros Alcance nominal: Nove milhas náuticas Sinal acústico: Tipo trompa emitindo a letra “B” em código morse Período sinal acústico: Trinta segundos"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Descreva a luz do seguinte farol: Is. R 6s 154m 21M",
+    "answer": "Característica da luz: Isofásica Cor da luz: Vermelho Período: Seis segundos Altitude plano focal: Cento e cinquenta e quatro metros Alcance nominal: Vinte e uma milhas náuticas"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Descreva a luz do seguinte farol: Fl(4) 18s 165m 26M",
+    "answer": "Característica da luz: Quatro relâmpagos agrupados Cor da luz: Branco Período: Dezoito segundos Altitude plano focal: Cento e sessenta e cinco metros Alcance nominal: Vinte e seis milhas náuticas"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Qual a distância a uma conhecença de 45m de altitude que tem um ângulo vertical de sextante de 39’?",
+    "answer": "TABELA 3: Aproximadamente 2,15 milhas náuticas"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Qual o ângulo vertical de sextante do seguinte farol, medido a 3,1M de distância? Rl 2s 37m 15M",
+    "answer": "Tabela 3 -> Aproximadamente 22’"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Qual o alcance geográfico dum farol com 100m de altitude, para um observador a 2m de altura?",
+    "answer": "Tábua 1 -> 23,3 milhas náuticas"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "A que distância avistamos um farol com 30m de altitude, se estivermos a 5m de altura?",
+    "answer": "Tábua 1 -> 15,7 milhas náuticas"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Qual o alcance luminoso do seguinte farol, para uma visibilidade de 5M? Rl(2) Vd 3s 40m 15M",
+    "answer": "Diagrama de Alcance Luminoso -> Aproximadamente 9,5 milhas náuticas"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Qual a visibilidade meteorológica para se ver o seguinte farol a uma distância de máxima de 10M? Oc Vm 5s 45m 14M",
+    "answer": "Diagrama de Alcance Luminoso -> Aproximadamente 6 milhas náuticas 10M-5M=∆5M ∆5M – 5 quadrículas x – 1 quadrícula x=(1qx5M)/5q  x=1M 5M+1M=6M"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Sendo D=4º50’W 2001 (7’E): Qual a Declinação em 2008?",
+    "answer": "2008-2001=7 Anos -> 7Ax7’E=49’E 4º50’W-49’E=4º01’W -> 4ºW ou -4º"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Sendo D=4º50’W 2001 (7’E): Qual a Declinação em 2015?",
+    "answer": "2015-2001=14 Anos -> 14Ax7’E=98’E 4º50’W-98’E=3º12’W -> 3ºW ou -3º"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Sendo D=4º50’W 2001 (7’E): Qual a Variação em 2017 para uma proa da agulha de 235º?",
+    "answer": "D: 2017-2001=16 Anos -> 16Ax7’E=112’E 4º50’W-112’E=2º58’W -> 3ºW ou -3º d: Pa=235º -> Tabela Desvios: d=2,5ºE V: V=D+d  V=3ºW+2,5ºE  V=0,5ºW ou -0,5º"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Se Pv=141º e R=147º, qual o ab?",
+    "answer": "ab=|Pv-R|  ab=|141º-147º|  ab=006º EB"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Se Pv=357º e ab=5ºEB, qual o R?",
+    "answer": "ab=|Pv-R|  R=|ab-Pv|  R=|005ºEB-357º|  R=002º"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Quando se utiliza a técnica de marca-navega-e-volta-a-marcar?",
+    "answer": "Quando só se dispõe de um único ponto conspícuo. A técnica consiste em obter 2 LdP’s a esse mesmo ponto, passado um determinado período de tempo bem definido, cruzando-as, com base numa determinada proa."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "O que representa uma sonda reduzida negativa numa carta de navegação ?",
+    "answer": "É a diferença na vertical entre o fundo e plano do zero hidrográfico, quando este está num nível inferior ao primeiro."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "A qualidade das agulhas magnéticas que se manifesta por estas acusarem prontamente qualquer mudança, mesmo pequena, designa-se por:",
+    "answer": "Sensibilidade"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "O que significa uma agulha magnética sensível ?",
+    "answer": "É aquela que acusa qualquer variação de proa ou azimute."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "As agulhas que indicam as alterações de proa de uma forma muito lenta chamam-se:",
+    "answer": "Agulhas preguiçosas."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "As agulhas que indicam a proa de modo firme mesmo nas guinadas e com balanço, designa-se por:",
+    "answer": "Agulhas estáveis."
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "No sextante o espelho grande deve ser ____________ ao plano do instrumento.",
+    "answer": "PERPENDICULAR"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Num sextante devidamente rectificado, o espelho pequeno deve estar perpendicular ao: ___________________",
+    "answer": "PLANO DO INSTRUMENTO"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "O erro que resulta da falta de paralelismo dos espelhos grande e pequeno, chama-se:",
+    "answer": "Erro de índice"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Num sextante o erro de índice resulta de:",
+    "answer": "Falta de paralelismo dos espelhos grande e pequeno"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Qual o valor de erro de indice da figura abaixo indicada:",
+    "answer": "Erro de índice = + 3,5’",
+    "image_src": "images/bs-sextante1.png"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Um sextante permite obter uma posição bastante rigorosa. No entanto para obtermos a posição é necessário ter à vista ____________ pontos conhecidos.",
+    "answer": "TRÊS"
+  },
+  {
+    "type": "Brainscape - Navegação Teórica",
+    "question": "Qual o valor do erro de índice da figura abaixo:",
+    "answer": "Erro de índice = - 2,7’",
+    "image_src": "images/bs-sextante2.png"
   }
 ]
