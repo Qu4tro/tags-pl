@@ -2475,5 +2475,90 @@
     "question": "Qual o valor do erro de índice da figura abaixo:",
     "answer": "Erro de índice = - 2,7’",
     "image_src": "images/bs-sextante2.png"
+  },
+  {
+    "type": "Brainscape - Segurança",
+    "question": "A primeira preocupação num ataque a alagamentos deve ser:",
+    "answer": "Eliminar a entrada de água."
+  },
+  {
+    "type": "Brainscape - Segurança",
+    "question": "De noite qual o sinal pirotécnico que alerta e indica a posição aos meios de socorro que se encontram a curta distância?",
+    "answer": "Facho luminoso de mão, de cor vermelha brilhante."
+  },
+  {
+    "type": "Brainscape - Segurança",
+    "question": "De dia qual o sinal pirotécnico que alerta e indica a posição aos meios de socorro?",
+    "answer": "Sinais fumígenos flutuantes de cor laranja."
+  },
+  {
+    "type": "Brainscape - Segurança",
+    "question": "Qual o sinal piroténico que alerta e indica, a partir do ar a posição aos meios de socorro que se encontram a longas distâncias?",
+    "answer": "Sinal com pára quedas, cor vermelha brilhante."
+  },
+  {
+    "type": "Brainscape - Segurança",
+    "question": "Descreva como deve proceder na manobra de “homem ao mar”.",
+    "answer": "Gritar homem ao mar e indicar o bordo.\nLançar uma bóia.\nNão perder de vista o náufrago.\nGuinar para o bordo por onde caiu e recolhê-lo por sotavento."
+  },
+  {
+    "type": "Brainscape - Segurança",
+    "question": "Como devem ser instaladas as garrafas de gás nas embarcações de recreio?",
+    "answer": "As garrafas de gás devem ser instaladas fora dos locais habitáveis, de preferência à ré, em compartimentos com ventilação para o exterior.\nAs instalações de gás devem incluir um aparelho de corte do gás à instalação."
+  },
+  {
+    "type": "Brainscape - Segurança",
+    "question": "Caracterize uma Radiobaliza ou EPIRB (Emergency Position Indicating Radio Beacon).",
+    "answer": "São equipamentos de rádio localização, que se libertam automaticamente e que cuja bateria deve durar no mínimo 48 horas.\nA radiobaliza começa a emitir automaticamente a posição, o satélite recebe o sinal de socorro, a informação é passada à estação de rastreio, que a transmite ao centro de busca e salvamento que alerta as unidades de busca e salvamento."
+  },
+  {
+    "type": "Brainscape - Segurança",
+    "question": "Descreva os procedimentos que devem ser adoptados numa jangada pneumática no caso de abandono da embarcação.",
+    "answer": "Tentar manter-se no local.\nEnvergar roupas quentes.\nManter as pessoas juntas e descalças.\nNão fumar e não beber bebidas alcoólicas.\nNão beber nem comer nas primeiras horas.\nTer cuidado especial com objectos cortantes.\nManter vigia e usar os pirotécnicos com eficácia.\nDefinir a autoridade."
+  },
+  {
+    "type": "Brainscape - Segurança",
+    "question": "Quais os procedimentos a ter numa jangada após o abandono da embarcação.",
+    "answer": "Afaste-se da embarcação.\nLance a âncora de mar ou drogue.\nColocar vigias.\nNão beba água salgada, racionalize a água e tente não beber água nas primeiras 24 horas.\nPoupe os fachos de socorro até ter a certeza de poder obter ajuda."
+  },
+  {
+    "type": "Brainscape - Segurança",
+    "question": "O que deve tentar levar consigo aquando do abandono de emergência de uma embarcação?",
+    "answer": "A EPIRB da embarcação\nUm VHF portátil\nÁgua potável\nRoupa quente\nComida"
+  },
+  {
+    "type": "Brainscape - Segurança",
+    "question": "Explique quais os procedimentos que adopta se sua embarcação encalhar.",
+    "answer": "1) Determinar a posição\n2) Verificar a natureza do fundo\n3) Sondar a embarcação por fora\n4) Se houver rombo, estudar a possibilidade de o tapar, tentando depois esgotar a água embarcada\n5) Se o rombo for num compartimento estanque, fechar a porta e tentar esgotar os adjacentes alagados\n6) Tentar ver o calado com que ficou\n7) Verificar a altura e evolução da maré\n8) Espiar a embarcação\n9) Informar as autoridades e pedir assistência se necessário"
+  },
+  {
+    "type": "Brainscape - Segurança",
+    "question": "Enuncie os diferentes tipos de emergências que uma embarcação em viagem pode estar sujeita?",
+    "answer": "Incêndio\nHomem ao mar\nAbalroamento\nAlagamento\nEncalhe\nSobreenchimento de quantes / poluição\nFugas numa tubagem / mangueira / junta\nAvaria no propulsor\nAvaria no governo\nAvaria na agulha\nAvaria no telégrafo\nBusca e salvamento"
+  },
+  {
+    "type": "Brainscape - Segurança",
+    "question": "Qual o prazo de validade dos pirotécnicos, quer sejam potes de fumo, fachos de mão ou sinais pára-quedas?",
+    "answer": "Três anos."
+  },
+  {
+    "type": "Brainscape - Segurança",
+    "question": "Quais as precauções a ter na conservação e utilização dos pitotécnicos?",
+    "answer": "Os pirotécnicos são explosivos e devem ser tratados com cuidado.\nDeve ser armazenados num contentor impermeável à água.\nVerificada a data de validade.\nCada pessoa a bordo deve saber onde estão armazenados e como utilizá-los.\nAs instruções de utilização estão impressas em todos os pirotécnicos, leia-as sempre antes de os acender.\nNão utilize os fachos quando houver nas redondezas um helicópetro de socorro.\nPoupe os pirotécnicos até ter a certeza de poder obter ajuda."
+  },
+  {
+    "type": "Brainscape - Segurança",
+    "question": "Indicar a opção correcta. Em caso de abandono da embarcação deve-se:",
+    "answer": "b) Sempre que possível evitar expor-se ao sol"
+  },
+  {
+    "type": "Brainscape - Segurança",
+    "question": "Como devem ser colocadas a bordo das embarcações de recreio a motor, com mais de 15 metros de comprimentos, as jangadas pneumáticas?",
+    "answer": "Devem estar colocadas a bordo com os cabos de disparo permanentemente fixos, através de um sistema automático de libertação, de modo a permitir que flutuem livremente e se insuflem automaticamente, no caso de as embarcações afundarem."
+  },
+  {
+    "type": "Brainscape - Segurança",
+    "question": "Quais os sinais que deve utilizar um navio que está em perigo e pede assistência?",
+    "answer": "tiro de peça ou outro sinal explosivo, com intervalos de cerca de um minuto\nSom contínuo, produzido por qualquer aparelho de sinais de nevoeiro\nFoguetes ou bombas, projectando estrelas vermelhas\nSinal SOS em código morse (radiotelegrafia)\nSinal radiotelefónico “Mayday”\nSinal NC, do CIS\nBandeira quadrada, tendo, acima ou abaixo dela, um balão esférico\nFogueiras a bordo\nFoguete pára-quedas ou um facho de mão\nSinal fumígeno\nMovimentos lentos e repetidos dos braços\nSinal de alarme radiotelegráfico\nSinal de alarme radiotelefónico\nSinais transmitidos por radiobalizas de localização de sinistros\nSinais aprovados transmitidos por sistemas de radiocomunicações incluindo respondedores radar de embarcações de salva vidas"
   }
 ]
